@@ -1,0 +1,38 @@
+[
+  {
+    "brand": "ALPINE",
+    "name": "A110S",
+    "slug": "",
+    "bodyStyle": "coupes",
+    "isDiscontinued": false,
+    "detail_url": "https://www.autoevolution.com/alpine/a110s/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/ALPINE_A110S-2021_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "ALPINE",
+    "name": "A110",
+    "slug": "",
+    "bodyStyle": "coupes",
+    "isDiscontinued": false,
+    "detail_url": "https://www.autoevolution.com/alpine/a110/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/ALPINE_A110-2021_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "ALPINE",
+    "name": "A106",
+    "slug": "",
+    "bodyStyle": "coupes",
+    "isDiscontinued": true,
+    "detail_url": "https://www.autoevolution.com/alpine/a106/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/ALPINE_A106-1955_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "ALPINE",
+    "name": "A108",
+    "slug": "",
+    "bodyStyle": "coupes",
+    "isDiscontinued": true,
+    "detail_url": "https://www.autoevolution.com/alpine/a108/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/ALPINE_A108-1958_main.jpg_tmb.jpg"
+  }
+]

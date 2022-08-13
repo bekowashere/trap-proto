@@ -1,0 +1,29 @@
+[
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 9",
+    "name": "DS 9",
+    "slug": "",
+    "startYear": "2020",
+    "endYear": "Present",
+    "fuelType": [
+      {
+        "type": "Gasoline"
+      },
+      {
+        "type": "Hybrid"
+      }
+    ],
+    "segment": "Medium Premium",
+    "description": "The DS brand has evolved from the French Citroen brand into a different company, with specially designed vehicles.DS cars aren't just rebadged and refurbished Citroen models, but they still use the same technical platforms, with a completely different look and image.\n\nDS' latest product should have been shown at the 2020 Geneva Motor Show. Unfortunately, the show was canceled but the vehicle will be available soon in dedicated DS showrooms. It is based on the same EMP2 platform as the Peugeot 508. Some design features might be similar from one to the other but the luxurious interior of the DS9 is unique.\n\nThe DS9 will be offered with the new E-TENSE plug-in hybrid powertrain. It comprises a turbocharged gasoline engine and an electric motor. The total output is 225hp and is able to drive 40-50 km (25-31 miles) in electric mode. The battery pack has 11.9 kWh. The electric motor has 110 hp and 320 Nm (236 lb.-ft) of torque and drives the wheels via an 8-speed automatic gearbox. Soon there are going to be other powertrain options as well, including an all-wheel-drive hybrid version with a 360 hp combined output.\n\nInside the 4.93m (16.2 ft) long sedan there is room for five, with enough legroom for the rear passengers thanks to the 2.90 m (9.5 ft) wheelbase. The infotainment unit allows Apple CarPlay and Android Auto connection.",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/DS-AUTOMOBILES_DS-9-2020_main.jpg",
+    "detail_url": "https://www.autoevolution.com/cars/ds-automobiles-ds-9-2020.html",
+    "images_url": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-9-6756_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-9-6756_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-9-6756_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-9-6756_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-9-6756_9.jpg"
+    ]
+  }
+]

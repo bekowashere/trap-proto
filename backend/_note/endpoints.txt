@@ -1,0 +1,16 @@
+LIST
+http://127.0.0.1:8000/api/auto/brands/
+http://127.0.0.1:8000/api/auto/series/
+http://127.0.0.1:8000/api/auto/models/
+
+DETAIL
+http://127.0.0.1:8000/api/auto/brand/detail/<slug>
+http://127.0.0.1:8000/api/auto/series/detail/<slug>
+http://127.0.0.1:8000/api/auto/model/detail/<slug>
+http://127.0.0.1:8000/api/auto/car/detail/<slug>
+
+
+PART 2 - SEARCH BAR
+http://127.0.0.1:8000/api/auto/search/brands
+http://127.0.0.1:8000/api/auto/search/series
+http://127.0.0.1:8000/api/auto/search/model

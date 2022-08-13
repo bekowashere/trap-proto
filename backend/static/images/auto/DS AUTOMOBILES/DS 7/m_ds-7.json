@@ -1,0 +1,32 @@
+[
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 7",
+    "name": "DS 7 Crossback",
+    "slug": "",
+    "startYear": "2017",
+    "endYear": "Present",
+    "fuelType": [
+      {
+        "type": "Gasoline"
+      },
+      {
+        "type": "Diesel"
+      },
+      {
+        "type": "Hybrid Gasoline"
+      }
+    ],
+    "segment": "Medium SUV",
+    "description": "DS is for Citroen like Lexus is for Toyota or Infinity for Lexus.A premium brand that evolved from a mass-market vehicle brand. And it grew with different vehicles.\n\nThe French tried to get a slice from the German Premium car-manufacturers with the DS brand and, for the SUV segment, it tried to do it with a 2WD cross-over. The DS7 had a special design, with a big 3D hexagonal grille. The angry headlights had LED fitted as standard and its three crystal-look LED lights had an angry look, like a pissed-off musketeer. From the side, it looked more like an SUV instead of a lifted station wagon, with a nice roof spoiler above the tailgate. \n\nThe interior design looked very different than most of the premium SUV vehicles on the market. The dashboard was covered in Alcantara, seats were bolstered and there were no dials inside the cabin. In front of the driver, there was a customizable TFT display and on top of the center console, it was the infotainment touch-screen display. It had some buttons for shortcuts to the HVAC, navigation, and sound system. In the back, there was seating for three adults and a nearly flat floor, that made it possible for the middle passenger to actually fit into place. \n\nThe technical platform was the same as for the Peugeot 3008 and Citroen C5 Aircross and featured the same engine and transmissions. The DS7 featured only front-wheel-drive versions and the only gearbox available was an 8-speed automatic.",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/CITROEN_DS7-Crossback-2017_main.jpg",
+    "detail_url": "https://www.autoevolution.com/cars/citroen-ds7-crossback-2017.html",
+    "images_url": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS7-Crossback-6007_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS7-Crossback-6007_6.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS7-Crossback-6007_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS7-Crossback-6007_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS7-Crossback-6007_9.jpg"
+    ]
+  }
+]

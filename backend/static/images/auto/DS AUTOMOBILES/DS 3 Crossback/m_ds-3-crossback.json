@@ -1,0 +1,32 @@
+[
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Crossback",
+    "name": "DS 3 Crossback",
+    "slug": "",
+    "startYear": "2018",
+    "endYear": "Present",
+    "fuelType": [
+      {
+        "type": "Gasoline"
+      },
+      {
+        "type": "Diesel"
+      },
+      {
+        "type": "Electric"
+      }
+    ],
+    "segment": "Crossover",
+    "description": "The smallest crossover in the DS Automobiles range is built on Groupe PSA's newest architecture, called the \"Common Modular Platform\" (CMP), which was developed in cooperation with PSA's Chinese partners at DongFeng.Essentially the first of its kind, the DS 3 Crossback will spawn various Citroen, Opel and Dongfeng models, including the next generations of the Opel Corsa, the Peugeot 208 and the Citroen C4. In the DS lineup, the car will replace the DS 3.\n\nJust a little over four meters long, the first subcompact crossover from DS has a rather large engine lineup for a French premium car, especially since from mid 2019 it will also have a full-electric version. On the gasoline front there are three choices - with 100, 130 and 155 horsepower - while a diesel with 100 horsepower completes the internal combustion engine lineup. Called the DS 3 Crossback E-Tense, the electric version set to arrive later in the lineup is powered by a single electric motor with 136 horsepower and 260 Nm (191.8 lb-ft) of torque. Thanks to a 50 kWh lithium-ion battery situated under the floor, the car has a range of over 300 km (186 miles) with the WLTP cycle and about 450 km (280 miles) in the NEDC testing cycle.",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/DS-AUTOMOBILES_DS-3-Crossback-2018_main.jpg",
+    "detail_url": "https://www.autoevolution.com/cars/ds-automobiles-ds-3-crossback-2018.html",
+    "images_url": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-3-Crossback-6406_8.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-3-Crossback-6406_9.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-3-Crossback-6406_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-3-Crossback-6406_12.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-3-Crossback-6406_13.jpg"
+    ]
+  }
+]

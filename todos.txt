@@ -1,0 +1,5 @@
+- Homepage Dropdown Filter -> Hero.js
+- pages/products/index.js ve slug.js
+- State --> totalPrice artması lazım mesela stateteki bilgileri güncellemek 
+- State --> persist
+- cart.js

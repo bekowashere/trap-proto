@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ABA",
+    "slug": "aba",
+    "image": "",
+    "description": "",
+    "status": ""
+  },
+  {
+    "name": "ACR",
+    "slug": "acr",
+    "image": "",
+    "description": "",
+    "status": ""
+  },
+  {
+    "name": "AE",
+    "slug": "ae",
+    "image": "",
+    "description": "",
+    "status": ""
+  },
+  {
+    "name": "AIRTEX",
+    "slug": "airtex",
+    "image": "",
+    "description": "",
+    "status": ""
+  },
+  {
+    "name": "AISIN",
+    "slug": "aisin",
+    "image": "",
+    "description": "",
+    "status": ""
+  },
+  {
+    "name": "ALFA",
+    "slug": "alfa",
+    "image": "",
+    "description": "",
+    "status": ""
+  },
+  {
+    "name": "BSG",
+    "slug": "bsg",
+    "image": "",
+    "description": "",
+    "status": "Yan Sanayi"
+  },
+  {
+    "name": "BOSCH",
+    "slug": "bosch",
+    "image": "",
+    "description": "",
+    "status": "Orijinal"
+  }
+]

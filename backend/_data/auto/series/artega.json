@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "ARTEGA",
+    "name": "Scalo",
+    "slug": "",
+    "bodyStyle": "coupes",
+    "isDiscontinued": false,
+    "detail_url": "https://www.autoevolution.com/artega/scalo/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/ARTEGA_Scalo-2015_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "ARTEGA",
+    "name": "GT",
+    "slug": "",
+    "bodyStyle": "coupes",
+    "isDiscontinued": true,
+    "detail_url": "https://www.autoevolution.com/artega/gt-6/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/ARTEGA_GT-2010_main.jpg_tmb.jpg"
+  }
+]

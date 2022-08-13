@@ -1,0 +1,32 @@
+[
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5LS",
+    "name": "DS 5LS",
+    "slug": "",
+    "startYear": "2014",
+    "endYear": "2018",
+    "fuelType": [
+      {
+        "type": "Gasoline"
+      },
+      {
+        "type": "Diesel"
+      },
+      {
+        "type": "Hybrid Diesel"
+      }
+    ],
+    "segment": "Medium Premium",
+    "description": "On December 19th, 2013, Citroen pulled the wraps off its first premium class sedan specifically designed for the Chinese market.In the face of diminishing European sales, the French carmaker is aggressively targeting the fast-growing market there and thus designed a long wheelbase sedan with good equipment levels and imposing styling, thus tailored to local demand. Styled similarly to the Wild Rubis concept, the 5LS sedan brings about a new design language for production Citroen. From launch, this car will be available with a choice of two outputs from the same 1.6-liter THP turbo, 160 hp for the cheaper models or 200 hp for more performance.",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/CITROEN_DS-5lS-2014_main.jpg",
+    "detail_url": "https://www.autoevolution.com/cars/citroen-ds-5ls-2014.html",
+    "images_url": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS-5lS-5079_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS-5lS-5079_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS-5lS-5079_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS-5lS-5079_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS-5lS-5079_5.jpg"
+    ]
+  }
+]

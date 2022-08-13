@@ -1,0 +1,32 @@
+[
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5",
+    "name": "DS 5",
+    "slug": "",
+    "startYear": "2016",
+    "endYear": "Present",
+    "fuelType": [
+      {
+        "type": "Gasoline"
+      },
+      {
+        "type": "Diesel"
+      },
+      {
+        "type": "Hybrid Diesel"
+      }
+    ],
+    "segment": "Compact",
+    "description": "The 2016 DS5 was the Citroen's premium brand.It evolved from being a top of the line product to a separate car brand. The French car-maker tried to do with the DS what the Honda did with Acura.\n\nBefore the 2016 DS5 there was the 2012 Citroen DS5. It might be considered as a facelift with a new badge on the car since there were absolutely no Citroen badges on the vehicle. But that didn't say that the car was not built by Citroen. The DS5 was the flagship of the French car-maker and it tried to build it as good as it could, but with a price-tag limit on its mind.\n\nThe egg-shape of the vehicle was a hatchback but styled to not look just like a regular compact MPV. It featured a floating roof design, thanks to the enlarged and Z-shaped rear quarter panels. The headlights were long and integrated nicely into a front fascia that tried to become specific for the DS brand.\n\nInside, the cabin was arranged as a cockpit. There were buttons on the center console, on the right side of the steering wheel, on the dashboard, and even on the car's ceiling. It was imagined as an airplane cockpit. Just like the Citroen DS, a car design by aircraft engineers. Unlike most of the Citroen products, the DS5 was carefully crafted with big attention to details.\n\nThe drivetrain featured platforms taken from other cars from the PSA (Peugeot-Citroen) group. It was offered with a choice of turbocharged gasoline and diesel units. A special hybrid diesel-electric was available, with an all-wheel-drive system. A 6-speed transmission was fitted as standard.",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/DS-AUTOMOBILES_DS-5-2016_main.jpg",
+    "detail_url": "https://www.autoevolution.com/cars/ds-automobiles-ds-5-2016.html",
+    "images_url": [
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-5-6353_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-5-6353_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-5-6353_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-5-6353_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/DS-AUTOMOBILES-DS-5-6353_6.jpg"
+    ]
+  }
+]

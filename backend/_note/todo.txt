@@ -1,0 +1,13 @@
+*Product modelinde save method yazılmalı slug için
+name + sku
+
+*
+BrandList -> rastgele veya normal model çekme
+BrandDetail -> serideki bütün fuel typeları çekme
+SeriesDetail -> serideki bütün fuel typeları çekme
+
+
+
+*
+Order
+Payment

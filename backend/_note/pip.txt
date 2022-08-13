@@ -1,0 +1,8 @@
+pip install Pillow
+pip install django-phonenumber-field[phonenumbers]
+pip install djangorestframework
+pip install markdown
+pip install django-filter
+pip install djangorestframework-simplejwt
+pip install django-measurement
+pip install django-mptt

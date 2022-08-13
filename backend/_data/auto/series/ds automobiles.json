@@ -1,0 +1,74 @@
+[
+  {
+    "brand": "DS AUTOMOBILES",
+    "name": "DS 3",
+    "slug": "",
+    "bodyStyle": "",
+    "isDiscontinued": false,
+    "detail_url": "https://www.autoevolution.com/ds-automobiles/ds3-1/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/CITROEN_DS3-2016_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "name": "DS 7",
+    "slug": "",
+    "bodyStyle": "",
+    "isDiscontinued": false,
+    "detail_url": "https://www.autoevolution.com/ds-automobiles/ds7-1/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/CITROEN_DS7-Crossback-2017_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "name": "DS 3 Crossback",
+    "slug": "",
+    "bodyStyle": "suvs",
+    "isDiscontinued": false,
+    "detail_url": "https://www.autoevolution.com/ds-automobiles/ds-3-crossback/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/DS-AUTOMOBILES_DS-3-Crossback-2018_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "name": "DS 5",
+    "slug": "",
+    "bodyStyle": "",
+    "isDiscontinued": false,
+    "detail_url": "https://www.autoevolution.com/ds-automobiles/ds5-1/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/DS-AUTOMOBILES_DS-5-2016_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "name": "DS 4",
+    "slug": "",
+    "bodyStyle": "",
+    "isDiscontinued": false,
+    "detail_url": "https://www.autoevolution.com/ds-automobiles/ds4-1/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/DS-AUTOMOBILES_DS-4-2021_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "name": "DS 9",
+    "slug": "",
+    "bodyStyle": "sedans",
+    "isDiscontinued": false,
+    "detail_url": "https://www.autoevolution.com/ds-automobiles/ds9/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/DS-AUTOMOBILES_DS-9-2020_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "name": "DS 3 Cabrio",
+    "slug": "",
+    "bodyStyle": "",
+    "isDiscontinued": true,
+    "detail_url": "https://www.autoevolution.com/ds-automobiles/ds3-cabrio-1/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/CITROEN_DS3-Cabrio-2016_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "name": "DS 5LS",
+    "slug": "",
+    "bodyStyle": "",
+    "isDiscontinued": true,
+    "detail_url": "https://www.autoevolution.com/ds-automobiles/ds-5ls-1/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/CITROEN_DS-5lS-2014_main.jpg_tmb.jpg"
+  }
+]

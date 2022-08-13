@@ -1,0 +1,3905 @@
+[
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2016-2022",
+    "name": "DS AUTOMOBILES DS 3 1.2L PureTech 5AT (82 HP)",
+    "slug": "ds-automobiles-ds-3-12l-puretech-5at-82-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 5AT",
+    "enginePower": "82",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "60.3 KW @ 5750 RPM82 HP @ 5750 RPM81 BHP @ 5750 RPM",
+        "Torque": "87 lb-ft @ 2750 RPM118 Nm @ 2750 RPM",
+        "Fuel System": "Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "11.9 gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "109 mph (175 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "14.4 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.8 in (1,466/1,468 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10.1 cuFT (286 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2161 lbs (980 kg)",
+        "Gross Weight Limit": "3355 lbs (1522 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "51.1 mpg US (4.6 L/100Km)",
+        "Highway": "60.3 mpg US (3.9 L/100Km)",
+        "Combined": "56 mpg US (4.2 L/100Km)",
+        "CO2 Emissions": "97 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2016-2022",
+    "name": "DS AUTOMOBILES DS 3 1.2L PureTech 5MT (110 HP)",
+    "slug": "ds-automobiles-ds-3-12l-puretech-5mt-110-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 5MT",
+    "enginePower": "110",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "80.9 KW @ 5500 RPM110 HP @ 5500 RPM108 BHP @ 5500 RPM",
+        "Torque": "151 lb-ft @ 1500 RPM205 Nm @ 1500 RPM",
+        "Fuel System": "Turbocharged Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "11.9 gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "118 mph (190 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.6 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.8 in (1,466/1,468 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10.1 cuFT (286 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2359 lbs (1070 kg)",
+        "Gross Weight Limit": "3479 lbs (1578 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "44.4 mpg US (5.3 L/100Km)",
+        "Highway": "61.9 mpg US (3.8 L/100Km)",
+        "Combined": "54.7 mpg US (4.3 L/100Km)",
+        "CO2 Emissions": "100 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2016-2022",
+    "name": "DS AUTOMOBILES DS 3 1.2L PureTech 5MT (82 HP)",
+    "slug": "ds-automobiles-ds-3-12l-puretech-5mt-82-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 5MT",
+    "enginePower": "82",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "60.3 KW @ 5750 RPM82 HP @ 5750 RPM81 BHP @ 5750 RPM",
+        "Torque": "87 lb-ft @ 2750 RPM118 Nm @ 2750 RPM",
+        "Fuel System": "Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "11.9 gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "108 mph (174 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "12.3 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.8 in (1,466/1,468 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10.1 cuFT (286 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2147 lbs (974 kg)",
+        "Gross Weight Limit": "3331 lbs (1511 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "42.8 mpg US (5.5 L/100Km)",
+        "Highway": "60.3 mpg US (3.9 L/100Km)",
+        "Combined": "52.3 mpg US (4.5 L/100Km)",
+        "CO2 Emissions": "104 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2016-2022",
+    "name": "DS AUTOMOBILES DS 3 1.2L PureTech 6AT (110 HP)",
+    "slug": "ds-automobiles-ds-3-12l-puretech-6at-110-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 6AT",
+    "enginePower": "110",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "80.9 KW @ 5500 RPM110 HP @ 5500 RPM108 BHP @ 5500 RPM",
+        "Torque": "151 lb-ft @ 1500 RPM205 Nm @ 1500 RPM",
+        "Fuel System": "Turbocharged Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "11.9 gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "117 mph (188 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.8 in (1,466/1,468 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10.1 cuFT (286 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2403 lbs (1090 kg)",
+        "Gross Weight Limit": "3560 lbs (1615 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "42 mpg US (5.6 L/100Km)",
+        "Highway": "60.3 mpg US (3.9 L/100Km)",
+        "Combined": "51.1 mpg US (4.6 L/100Km)",
+        "CO2 Emissions": "105 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2016-2022",
+    "name": "DS AUTOMOBILES DS 3 1.2L PureTech 6MT (130 HP)",
+    "slug": "ds-automobiles-ds-3-12l-puretech-6mt-130-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 6MT",
+    "enginePower": "130",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "95.6 KW @ 5500 RPM130 HP @ 5500 RPM128 BHP @ 5500 RPM",
+        "Torque": "170 lb-ft @ 1750 RPM230 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "11.9 gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "127 mph (204 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.8 in (1,466/1,468 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10.1 cuFT (286 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2403 lbs (1090 kg)",
+        "Gross Weight Limit": "3527 lbs (1600 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "43.6 mpg US (5.4 L/100Km)",
+        "Highway": "57.4 mpg US (4.1 L/100Km)",
+        "Combined": "52.3 mpg US (4.5 L/100Km)",
+        "CO2 Emissions": "105 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2016-2022",
+    "name": "DS AUTOMOBILES DS 3 1.6L THP 6MT (165 HP)",
+    "slug": "ds-automobiles-ds-3-16l-thp-6mt-165-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6L THP 6MT",
+    "enginePower": "165",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "121.3 KW @ 6000 RPM165 HP @ 6000 RPM163 BHP @ 6000 RPM",
+        "Torque": "177 lb-ft @ 1400 RPM240 Nm @ 1400 RPM",
+        "Fuel System": "Turbocharged Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "11.9 gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "135 mph (217 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "205/45 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.8 in (1,466/1,468 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10.1 cuFT (286 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2513 lbs (1140 kg)",
+        "Gross Weight Limit": "3538 lbs (1605 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "33.1 mpg US (7.1 L/100Km)",
+        "Highway": "51.1 mpg US (4.6 L/100Km)",
+        "Combined": "42 mpg US (5.6 L/100Km)",
+        "CO2 Emissions": "129 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2016-2022",
+    "name": "DS AUTOMOBILES DS 3 1.6L BlueHDi 5MT (100 HP)",
+    "slug": "ds-automobiles-ds-3-16l-bluehdi-5mt-100-hp",
+    "fuelType": "Diesel",
+    "engine": "1.6L BlueHDi 5MT",
+    "enginePower": "100",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1560 cm3",
+        "Power": "73.5 KW @ 3750 RPM100 HP @ 3750 RPM99 BHP @ 3750 RPM",
+        "Torque": "187 lb-ft @ 1750 RPM254 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "11.9 gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "117 mph (188 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.8 in (1,466/1,468 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10.1 cuFT (286 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2392 lbs (1085 kg)",
+        "Gross Weight Limit": "3600 lbs (1633 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "61.9 mpg US (3.8 L/100Km)",
+        "Highway": "73.5 mpg US (3.2 L/100Km)",
+        "Combined": "69.2 mpg US (3.4 L/100Km)",
+        "CO2 Emissions": "87 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2016-2022",
+    "name": "DS AUTOMOBILES DS 3 1.6L BlueHDi 6MT (120 HP)",
+    "slug": "ds-automobiles-ds-3-16l-bluehdi-6mt-120-hp",
+    "fuelType": "Diesel",
+    "engine": "1.6L BlueHDi 6MT",
+    "enginePower": "120",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1560 cm3",
+        "Power": "88.3 KW @ 3500 RPM120 HP @ 3500 RPM118 BHP @ 3500 RPM",
+        "Torque": "210 lb-ft @ 1750 RPM285 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "11.9 gallons (45.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "118 mph (190 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.3 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "205/45 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.8 in (1,466/1,468 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10.1 cuFT (286 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2535 lbs (1150 kg)",
+        "Gross Weight Limit": "3644 lbs (1653 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "53.5 mpg US (4.4 L/100Km)",
+        "Highway": "73.5 mpg US (3.2 L/100Km)",
+        "Combined": "65.3 mpg US (3.6 L/100Km)",
+        "CO2 Emissions": "94 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2014-2016",
+    "name": "DS AUTOMOBILES DS 3 1.2L VTi 5MT (82 HP)",
+    "slug": "ds-automobiles-ds-3-12l-vti-5mt-82-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L VTi 5MT",
+    "enginePower": "82",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "60 KW @ 5750 RPM82 HP @ 5750 RPM80 BHP @ 5750 RPM",
+        "Torque": "87 lb-ft @ 2750 RPM118 Nm @ 2750 RPM",
+        "Fuel System": "Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "108 mph (174 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "14.2 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2469 lbs (1120 kg)",
+        "Gross Weight Limit": "3298 lbs (1496 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "42.8 mpg US (5.5 L/100Km)",
+        "Highway": "60.3 mpg US (3.9 L/100Km)",
+        "Combined": "52.3 mpg US (4.5 L/100Km)",
+        "CO2 Emissions": "107 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2014-2016",
+    "name": "DS AUTOMOBILES DS 3 1.4L VTi 5MT (90 HP)",
+    "slug": "ds-automobiles-ds-3-14l-vti-5mt-90-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.4L VTi 5MT",
+    "enginePower": "90",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1397 cm3",
+        "Power": "75 KW @ 6000 RPM102 HP @ 6000 RPM101 BHP @ 6000 RPM",
+        "Torque": "100 lb-ft @ 4000 RPM136 Nm @ 4000 RPM",
+        "Fuel System": "Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "114 mph (183 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "10.6 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2346 lbs (1064 kg)",
+        "Gross Weight Limit": "3499 lbs (1587 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "30.9 mpg US (7.6 L/100Km)",
+        "Highway": "49 mpg US (4.8 L/100Km)",
+        "Combined": "40.5 mpg US (5.8 L/100Km)",
+        "CO2 Emissions": "134 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2014-2016",
+    "name": "DS AUTOMOBILES DS 3 1.6L THP 6MT (156 HP)",
+    "slug": "ds-automobiles-ds-3-16l-thp-6mt-156-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6L THP 6MT",
+    "enginePower": "156",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "115 KW @ 6000 RPM156 HP @ 6000 RPM154 BHP @ 6000 RPM",
+        "Torque": "177 lb-ft @ 1400 RPM240 Nm @ 1400 RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "133 mph (214 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "7.3 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "205/45 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2348 lbs (1065 kg)",
+        "Gross Weight Limit": "3505 lbs (1590 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "25 mpg US (9.4 L/100Km)",
+        "Highway": "46.1 mpg US (5.1 L/100Km)",
+        "Combined": "35.1 mpg US (6.7 L/100Km)",
+        "CO2 Emissions": "155 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2014-2016",
+    "name": "DS AUTOMOBILES DS 3 1.6L THP 6MT (163 HP)",
+    "slug": "ds-automobiles-ds-3-16l-thp-6mt-163-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6L THP 6MT",
+    "enginePower": "163",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "119.9 KW @ 6000 RPM163 HP @ 6000 RPM161 BHP @ 6000 RPM",
+        "Torque": "177 lb-ft @ 1400 RPM240 Nm @ 1400 RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "135 mph (217 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "205/45 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2458 lbs (1115 kg)",
+        "Gross Weight Limit": "3538 lbs (1605 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "33.1 mpg US (7.1 L/100Km)",
+        "Highway": "51.1 mpg US (4.6 L/100Km)",
+        "Combined": "42 mpg US (5.6 L/100Km)",
+        "CO2 Emissions": "129 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2014-2016",
+    "name": "DS AUTOMOBILES DS 3 1.6L VTi 4AT (120 HP)",
+    "slug": "ds-automobiles-ds-3-16l-vti-4at-120-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6L VTi 4AT",
+    "enginePower": "120",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "88 KW @ 6000 RPM120 HP @ 6000 RPM118 BHP @ 6000 RPM",
+        "Torque": "118 lb-ft @ 4250 RPM160 Nm @ 4250 RPM",
+        "Fuel System": "Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "118 mph (190 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "4-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2474 lbs (1122 kg)",
+        "Gross Weight Limit": "3499 lbs (1587 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "25.3 mpg US (9.3 L/100Km)",
+        "Highway": "48 mpg US (4.9 L/100Km)",
+        "Combined": "36.2 mpg US (6.5 L/100Km)",
+        "CO2 Emissions": "150 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2014-2016",
+    "name": "DS AUTOMOBILES DS 3 1.6L VTi 5MT (120 HP)",
+    "slug": "ds-automobiles-ds-3-16l-vti-5mt-120-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6L VTi 5MT",
+    "enginePower": "120",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "88 KW @ 6000 RPM120 HP @ 6000 RPM118 BHP @ 6000 RPM",
+        "Torque": "118 lb-ft @ 4250 RPM160 Nm @ 4250 RPM",
+        "Fuel System": "Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "118 mph (190 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2621 lbs (1189 kg)",
+        "Gross Weight Limit": "3426 lbs (1554 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "29.7 mpg US (7.9 L/100Km)",
+        "Highway": "49 mpg US (4.8 L/100Km)",
+        "Combined": "39.8 mpg US (5.9 L/100Km)",
+        "CO2 Emissions": "136 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2014-2016",
+    "name": "DS AUTOMOBILES DS 3 1.6L HDi 5MT (90 HP)",
+    "slug": "ds-automobiles-ds-3-16l-hdi-5mt-90-hp",
+    "fuelType": "Diesel",
+    "engine": "1.6L HDi 5MT",
+    "enginePower": "90",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1560 cm3",
+        "Power": "68 KW @ 4000 RPM92 HP @ 4000 RPM91 BHP @ 4000 RPM",
+        "Torque": "169 lb-ft @ 1750 RPM229 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "113 mph (182 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2326 lbs (1055 kg)",
+        "Gross Weight Limit": "3492 lbs (1584 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "50 mpg US (4.7 L/100Km)",
+        "Highway": "71.2 mpg US (3.3 L/100Km)",
+        "Combined": "61.9 mpg US (3.8 L/100Km)",
+        "CO2 Emissions": "99 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3",
+    "model": "DS 3",
+    "model_slug": "ds-3-2014-2016",
+    "name": "DS AUTOMOBILES DS 3 1.6L HDi 6MT (110 HP)",
+    "slug": "ds-automobiles-ds-3-16l-hdi-6mt-110-hp",
+    "fuelType": "Diesel",
+    "engine": "1.6L HDi 6MT",
+    "enginePower": "110",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1560 cm3",
+        "Power": "82 KW @ 3600 RPM111 HP @ 3600 RPM110 BHP @ 3600 RPM",
+        "Torque": "199 lb-ft @ 1750 RPM270 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "118 mph (190 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.8 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "205/45 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2337 lbs (1060 kg)",
+        "Gross Weight Limit": "3600 lbs (1633 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "42 mpg US (5.6 L/100Km)",
+        "Highway": "60.3 mpg US (3.9 L/100Km)",
+        "Combined": "52.2 mpg US (4.5 L/100Km)",
+        "CO2 Emissions": "118 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 7",
+    "model": "DS 7 Crossback",
+    "model_slug": "ds-7-crossback-2017-2022",
+    "name": "DS AUTOMOBILES DS 7 Crossback 1.2L PureTech 6MT (130 HP)",
+    "slug": "ds-automobiles-ds-7-crossback-12l-puretech-6mt-130-hp",
+    "fuelType": "Gasoline",
+    "engine": "Crossback 1.2L PureTech 6MT",
+    "enginePower": "130",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "95.6 KW @ 5500 RPM130 HP @ 5500 RPM128 BHP @ 5500 RPM",
+        "Torque": "170 lb-ft @ 1750 RPM230 Nm @ 1750 RPM",
+        "Fuel System": "Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "16.4 gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "121 mph (195 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "11.2 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-Speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "180 in (4572 mm)",
+        "Width": "74.4 in (1890 mm)",
+        "Height": "64 in (1626 mm)",
+        "Front/rear Track": "63.8/62.9 in (1,621/1,598 mm)",
+        "Wheelbase": "107.8 in (2738 mm)",
+        "Ground Clearance": "7.5 in (191 mm)",
+        "Cargo Volume": "19.6 cuFT (555 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3488 lbs (1582 kg)",
+        "Gross Weight Limit": "4376 lbs (1985 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "36.8 mpg US (6.4 L/100Km)",
+        "Highway": "50 mpg US (4.7 L/100Km)",
+        "Combined": "44.4 mpg US (5.3 L/100Km)",
+        "CO2 Emissions": "121 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 7",
+    "model": "DS 7 Crossback",
+    "model_slug": "ds-7-crossback-2017-2022",
+    "name": "DS AUTOMOBILES DS 7 Crossback 1.2L PureTech 8AT (130 HP)",
+    "slug": "ds-automobiles-ds-7-crossback-12l-puretech-8at-130-hp",
+    "fuelType": "Gasoline",
+    "engine": "Crossback 1.2L PureTech 8AT",
+    "enginePower": "130",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "95.6 KW @ 5500 RPM130 HP @ 5500 RPM128 BHP @ 5500 RPM",
+        "Torque": "170 lb-ft @ 1750 RPM230 Nm @ 1750 RPM",
+        "Fuel System": "Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "16.4 gallons (62.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "121 mph (195 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "180 in (4572 mm)",
+        "Width": "74.4 in (1890 mm)",
+        "Height": "64 in (1626 mm)",
+        "Front/rear Track": "63.8/62.9 in (1,621/1,598 mm)",
+        "Wheelbase": "107.8 in (2738 mm)",
+        "Ground Clearance": "7.5 in (191 mm)",
+        "Cargo Volume": "19.6 cuFT (555 L)",
+        "Turning circle": "34.3 ft (10.5 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3153 lbs (1430 kg)",
+        "Gross Weight Limit": "4431 lbs (2010 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "41.3 mpg US (5.7 L/100Km)",
+        "Highway": "52.3 mpg US (4.5 L/100Km)",
+        "Combined": "47 mpg US (5 L/100Km)",
+        "CO2 Emissions": "114 g/km"
+      },
+      "Fuel Economy (WLTP) Specs": {
+        "Low": "30.2 mpg US (7.8 L/100Km)",
+        "Medium": "37.3 mpg US (6.3 L/100Km)",
+        "High": "43.6 mpg US (5.4 L/100Km)",
+        "Extra high": "36.2 mpg US (6.5 L/100Km)",
+        "Combined": "37.3 mpg US (6.3 L/100Km)",
+        "CO2 Emissions (Combined)": "143 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 7",
+    "model": "DS 7 Crossback",
+    "model_slug": "ds-7-crossback-2017-2022",
+    "name": "DS AUTOMOBILES DS 7 Crossback 1.6L Puretech 8AT (180 HP)",
+    "slug": "ds-automobiles-ds-7-crossback-16l-puretech-8at-180-hp",
+    "fuelType": "Gasoline",
+    "engine": "Crossback 1.6L Puretech 8AT",
+    "enginePower": "180",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "132.4 KW @ - RPM180 HP @ - RPM178 BHP @ - RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "17.7 gallons (67.0 L)"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "180 in (4572 mm)",
+        "Width": "74.4 in (1890 mm)",
+        "Height": "64 in (1626 mm)",
+        "Front/rear Track": "63.8/62.9 in (1,621/1,598 mm)",
+        "Wheelbase": "107.8 in (2738 mm)",
+        "Ground Clearance": "7.5 in (191 mm)",
+        "Cargo Volume": "19.6 cuFT (555 L)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "CO2 Emissions": "135 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 7",
+    "model": "DS 7 Crossback",
+    "model_slug": "ds-7-crossback-2017-2022",
+    "name": "DS AUTOMOBILES DS 7 Crossback 1.6L Puretech 8AT (225 HP)",
+    "slug": "ds-automobiles-ds-7-crossback-16l-puretech-8at-225-hp",
+    "fuelType": "Gasoline",
+    "engine": "Crossback 1.6L Puretech 8AT",
+    "enginePower": "225",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "165.5 KW @ 5500 RPM225 HP @ 5500 RPM222 BHP @ 5500 RPM",
+        "Torque": "221 lb-ft @ 1900 RPM300 Nm @ 1900 RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "17.7 gallons (67.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "145 mph (233 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "180 in (4572 mm)",
+        "Width": "74.4 in (1890 mm)",
+        "Height": "64 in (1626 mm)",
+        "Front/rear Track": "63.8/62.9 in (1,621/1,598 mm)",
+        "Wheelbase": "107.8 in (2738 mm)",
+        "Ground Clearance": "7.5 in (191 mm)",
+        "Cargo Volume": "19.6 cuFT (555 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3142 lbs (1425 kg)",
+        "Gross Weight Limit": "4519 lbs (2050 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "31.4 mpg US (7.5 L/100Km)",
+        "Highway": "47 mpg US (5 L/100Km)",
+        "Combined": "39.9 mpg US (5.9 L/100Km)",
+        "CO2 Emissions": "135 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 7",
+    "model": "DS 7 Crossback",
+    "model_slug": "ds-7-crossback-2017-2022",
+    "name": "DS AUTOMOBILES DS 7 Crossback 1.5L BlueHDi 6MT (130 HP)",
+    "slug": "ds-automobiles-ds-7-crossback-15l-bluehdi-6mt-130-hp",
+    "fuelType": "Diesel",
+    "engine": "Crossback 1.5L BlueHDi 6MT",
+    "enginePower": "130",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1499 cm3",
+        "Power": "95.6 KW @ 3750 RPM130 HP @ 3750 RPM128 BHP @ 3750 RPM",
+        "Torque": "221 lb-ft @ 1750 RPM300 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "14.5 gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "121 mph (195 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "180 in (4572 mm)",
+        "Width": "74.4 in (1890 mm)",
+        "Height": "64 in (1626 mm)",
+        "Front/rear Track": "63.8/62.9 in (1,621/1,598 mm)",
+        "Wheelbase": "107.8 in (2738 mm)",
+        "Ground Clearance": "7.5 in (191 mm)",
+        "Cargo Volume": "19.6 cuFT (555 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3131 lbs (1420 kg)",
+        "Gross Weight Limit": "4475 lbs (2030 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "52.3 mpg US (4.5 L/100Km)",
+        "Highway": "63.6 mpg US (3.7 L/100Km)",
+        "Combined": "58.8 mpg US (4 L/100Km)",
+        "CO2 Emissions": "104 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 7",
+    "model": "DS 7 Crossback",
+    "model_slug": "ds-7-crossback-2017-2022",
+    "name": "DS AUTOMOBILES DS 7 Crossback 1.5L BlueHDi 8AT (130 HP)",
+    "slug": "ds-automobiles-ds-7-crossback-15l-bluehdi-8at-130-hp",
+    "fuelType": "Diesel",
+    "engine": "Crossback 1.5L BlueHDi 8AT",
+    "enginePower": "130",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1499 cm3",
+        "Power": "95.6 KW @ 3750 RPM130 HP @ 3750 RPM128 BHP @ 3750 RPM",
+        "Torque": "221 lb-ft @ 1750 RPM300 Nm @ 1750 RPM",
+        "Fuel System": "Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "14.5 gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "121 mph (195 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "11.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "180 in (4572 mm)",
+        "Width": "74.4 in (1890 mm)",
+        "Height": "64 in (1626 mm)",
+        "Front/rear Track": "63.8/62.9 in (1,621/1,598 mm)",
+        "Wheelbase": "107.8 in (2738 mm)",
+        "Ground Clearance": "7.5 in (191 mm)",
+        "Cargo Volume": "19.6 cuFT (555 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3587 lbs (1627 kg)",
+        "Gross Weight Limit": "4519 lbs (2050 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "56 mpg US (4.2 L/100Km)",
+        "Highway": "63.6 mpg US (3.7 L/100Km)",
+        "Combined": "60.3 mpg US (3.9 L/100Km)",
+        "CO2 Emissions": "103 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 7",
+    "model": "DS 7 Crossback",
+    "model_slug": "ds-7-crossback-2017-2022",
+    "name": "DS AUTOMOBILES DS 7 Crossback 2.0L BlueHDi 6MT (180 HP)",
+    "slug": "ds-automobiles-ds-7-crossback-20l-bluehdi-6mt-180-hp",
+    "fuelType": "Diesel",
+    "engine": "Crossback 2.0L BlueHDi 6MT",
+    "enginePower": "180",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1997 cm3",
+        "Power": "132.4 KW @ 3750 RPM180 HP @ 3750 RPM178 BHP @ 3750 RPM",
+        "Torque": "295 lb-ft @ 2000 RPM400 Nm @ 2000 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "14.5 gallons (54.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "134 mph (216 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.4 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "180 in (4572 mm)",
+        "Width": "74.4 in (1890 mm)",
+        "Height": "64 in (1626 mm)",
+        "Front/rear Track": "63.8/62.9 in (1,621/1,598 mm)",
+        "Wheelbase": "107.8 in (2738 mm)",
+        "Ground Clearance": "7.5 in (191 mm)",
+        "Cargo Volume": "19.6 cuFT (555 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3384 lbs (1535 kg)",
+        "Gross Weight Limit": "4707 lbs (2135 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "42 mpg US (5.6 L/100Km)",
+        "Highway": "53.5 mpg US (4.4 L/100Km)",
+        "Combined": "48 mpg US (4.9 L/100Km)",
+        "CO2 Emissions": "128 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 7",
+    "model": "DS 7 Crossback",
+    "model_slug": "ds-7-crossback-2017-2022",
+    "name": "DS AUTOMOBILES DS 7 Crossback E-Tense 1.6L PureTech 8AT AWD (300 HP)",
+    "slug": "ds-automobiles-ds-7-crossback-e-tense-16l-puretech-8at-awd-300-hp",
+    "fuelType": "Hybrid Gasoline",
+    "engine": "Crossback E-Tense 1.6L PureTech 8AT AWD",
+    "enginePower": "300",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "147.1 KW @ 6000 RPM200 HP @ 6000 RPM197 BHP @ 6000 RPM",
+        "Torque": "221 lb-ft @ 3000 RPM300 Nm @ 3000 RPM",
+        "Electrical motor power": "80.9 kw (110 hp)",
+        "Electrical motor torque": "236 lb-ft (320 Nm)",
+        "Total maximum power": "220.6 kw (300 hp)",
+        "Total maximum torque": "383.5 lb-ft (520 Nm)",
+        "Fuel System": "Direct Injection",
+        "Fuel": "Hybrid Gasoline",
+        "Fuel capacity": "11.4 gallons (43.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "146 mph (235 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "All Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "180 in (4572 mm)",
+        "Width": "74.4 in (1890 mm)",
+        "Height": "64 in (1626 mm)",
+        "Front/rear Track": "63.8/62.9 in (1,621/1,598 mm)",
+        "Wheelbase": "107.8 in (2738 mm)",
+        "Ground Clearance": "7.5 in (191 mm)",
+        "Cargo Volume": "19.6 cuFT (555 L)",
+        "Turning circle": "34.3 ft (10.5 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "4023 lbs (1825 kg)",
+        "Gross Weight Limit": "5291 lbs (2400 kg)"
+      },
+      "Power System Specs": {
+        "Power pack": "Lithium-Ion",
+        "Nominal Capacity": "13.2 kWh",
+        "Range": "36 miles (57.9 km)"
+      },
+      "Fuel Economy (WLTP) Specs": {
+        "Low": "23.8 mpg US (9.9 L/100Km)",
+        "Medium": "40.6 mpg US (5.8 L/100Km)",
+        "High": "39.9 mpg US (5.9 L/100Km)",
+        "Extra high": "30.2 mpg US (7.8 L/100Km)",
+        "Combined": "180.9 mpg US (1.3 L/100Km)",
+        "CO2 Emissions (Combined)": "30 g/km"
+      },
+      "Notice": {
+        "Notice": "Electric motor Power 2: 113 HP\nE;ectric motor Torque 2: 166 Nm"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 7",
+    "model": "DS 7 Crossback",
+    "model_slug": "ds-7-crossback-2017-2022",
+    "name": "DS AUTOMOBILES DS 7 Crossback E-Tense 1.6L PureTech PHEV 8AT (225 HP)",
+    "slug": "ds-automobiles-ds-7-crossback-e-tense-16l-puretech-phev-8at-225-hp",
+    "fuelType": "Hybrid Gasoline",
+    "engine": "Crossback E-Tense 1.6L PureTech PHEV 8AT",
+    "enginePower": "225",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "132.4 KW @ 6000 RPM180 HP @ 6000 RPM178 BHP @ 6000 RPM",
+        "Torque": "221 lb-ft @ 3000 RPM300 Nm @ 3000 RPM",
+        "Electrical motor power": "80.9 kw (110 hp)",
+        "Electrical motor torque": "236 lb-ft (320 Nm)",
+        "Total maximum power": "165.5 kw (225 hp)",
+        "Total maximum torque": "265.5 lb-ft (360 Nm)",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Hybrid Gasoline",
+        "Fuel capacity": "11.4 gallons (43.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "140 mph (225 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "180 in (4572 mm)",
+        "Width": "74.4 in (1890 mm)",
+        "Height": "64 in (1626 mm)",
+        "Front/rear Track": "63.8/62.9 in (1,621/1,598 mm)",
+        "Wheelbase": "107.8 in (2738 mm)",
+        "Ground Clearance": "7.5 in (191 mm)",
+        "Cargo Volume": "19.6 cuFT (555 L)",
+        "Turning circle": "34.3 ft (10.5 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3880 lbs (1760 kg)",
+        "Gross Weight Limit": "5181 lbs (2350 kg)"
+      },
+      "Power System Specs": {
+        "Power pack": "Lithium-Ion",
+        "Nominal Capacity": "13.2 kWh",
+        "Range": "34.2 miles (55.0 km)"
+      },
+      "Fuel Economy (WLTP) Specs": {
+        "Low": "26.4 mpg US (8.9 L/100Km)",
+        "Medium": "37.3 mpg US (6.3 L/100Km)",
+        "High": "38.6 mpg US (6.1 L/100Km)",
+        "Extra high": "30.5 mpg US (7.7 L/100Km)",
+        "Combined": "168 mpg US (1.4 L/100Km)",
+        "CO2 Emissions (Combined)": "31 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Crossback",
+    "model": "DS 3 Crossback",
+    "model_slug": "ds-3-crossback-2018-2022",
+    "name": "DS AUTOMOBILES DS 3 Crossback 1.2L PureTech 6MT (102 HP)",
+    "slug": "ds-automobiles-ds-3-crossback-12l-puretech-6mt-102-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 6MT",
+    "enginePower": "102",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "75 KW @ 5500 RPM102 HP @ 5500 RPM101 BHP @ 5500 RPM",
+        "Torque": "151 lb-ft @ 1750 RPM205 Nm @ 1750 RPM",
+        "Fuel System": "Multi-point Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "10.8 gallons (40.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "115 mph (185 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/60 R17 H"
+      },
+      "Dimensions Specs": {
+        "Length": "162.1 in (4117 mm)",
+        "Width": "70.5 in (1791 mm)",
+        "Height": "60.4 in (1534 mm)",
+        "Front/rear Track": "60.9/61.3 in (1,547/1,557 mm)",
+        "Wheelbase": "100.7 in (2558 mm)",
+        "Cargo Volume": "12.4 cuFT (351 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2579 lbs (1170 kg)",
+        "Gross Weight Limit": "3638 lbs (1650 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "42.8 mpg US (5.5 L/100Km)",
+        "Highway": "57.4 mpg US (4.1 L/100Km)",
+        "Combined": "50 mpg US (4.7 L/100Km)",
+        "CO2 Emissions": "108 g/km"
+      },
+      "Power System Specs": {
+        "Nominal Capacity": "50 kWh",
+        "Range": "267 miles (429.7 km)"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Crossback",
+    "model": "DS 3 Crossback",
+    "model_slug": "ds-3-crossback-2018-2022",
+    "name": "DS AUTOMOBILES DS 3 Crossback 1.2L PureTech 8AT (131 HP)",
+    "slug": "ds-automobiles-ds-3-crossback-12l-puretech-8at-131-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 8AT",
+    "enginePower": "131",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "96.4 KW @ 5500 RPM131 HP @ 5500 RPM129 BHP @ 5500 RPM",
+        "Torque": "170 lb-ft @ 1750 RPM230 Nm @ 1750 RPM",
+        "Fuel System": "Multi-point Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "10.8 gallons (40.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "122 mph (196 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.2 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/60 R17 H"
+      },
+      "Dimensions Specs": {
+        "Length": "162.1 in (4117 mm)",
+        "Width": "70.5 in (1791 mm)",
+        "Height": "60.4 in (1534 mm)",
+        "Front/rear Track": "60.9/61.3 in (1,547/1,557 mm)",
+        "Wheelbase": "100.7 in (2558 mm)",
+        "Cargo Volume": "12.4 cuFT (351 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2657 lbs (1205 kg)",
+        "Gross Weight Limit": "3748 lbs (1700 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "39.9 mpg US (5.9 L/100Km)",
+        "Highway": "54.7 mpg US (4.3 L/100Km)",
+        "Combined": "48 mpg US (4.9 L/100Km)",
+        "CO2 Emissions": "111 g/km"
+      },
+      "Power System Specs": {
+        "Nominal Capacity": "50 kWh",
+        "Range": "267 miles (429.7 km)"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Crossback",
+    "model": "DS 3 Crossback",
+    "model_slug": "ds-3-crossback-2018-2022",
+    "name": "DS AUTOMOBILES DS 3 Crossback 1.2L PureTech 8AT (155 HP)",
+    "slug": "ds-automobiles-ds-3-crossback-12l-puretech-8at-155-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 8AT",
+    "enginePower": "155",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "114 KW @ 5500 RPM155 HP @ 5500 RPM153 BHP @ 5500 RPM",
+        "Torque": "177 lb-ft @ 1750 RPM240 Nm @ 1750 RPM",
+        "Fuel System": "Multi-point Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "10.8 gallons (40.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "129 mph (208 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/60 R17 H"
+      },
+      "Dimensions Specs": {
+        "Length": "162.1 in (4117 mm)",
+        "Width": "70.5 in (1791 mm)",
+        "Height": "60.4 in (1534 mm)",
+        "Front/rear Track": "60.9/61.3 in (1,547/1,557 mm)",
+        "Wheelbase": "100.7 in (2558 mm)",
+        "Cargo Volume": "12.4 cuFT (351 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2657 lbs (1205 kg)",
+        "Gross Weight Limit": "3759 lbs (1705 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "36.2 mpg US (6.5 L/100Km)",
+        "Highway": "50 mpg US (4.7 L/100Km)",
+        "Combined": "43.6 mpg US (5.4 L/100Km)",
+        "CO2 Emissions": "123 g/km"
+      },
+      "Power System Specs": {
+        "Nominal Capacity": "50 kWh",
+        "Range": "267 miles (429.7 km)"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Crossback",
+    "model": "DS 3 Crossback",
+    "model_slug": "ds-3-crossback-2018-2022",
+    "name": "DS AUTOMOBILES DS 3 Crossback 1.5L BlueHDi 6MT (102 HP)",
+    "slug": "ds-automobiles-ds-3-crossback-15l-bluehdi-6mt-102-hp",
+    "fuelType": "Diesel",
+    "engine": "1.5L BlueHDi 6MT",
+    "enginePower": "102",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1499 cm3",
+        "Power": "75 KW @ 3500 RPM102 HP @ 3500 RPM101 BHP @ 3500 RPM",
+        "Torque": "184 lb-ft @ 1750 RPM250 Nm @ 1750 RPM",
+        "Fuel System": "Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "10.8 gallons (40.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "112 mph (180 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "11.4 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-Speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/60 R17 H"
+      },
+      "Dimensions Specs": {
+        "Length": "162.1 in (4117 mm)",
+        "Width": "70.5 in (1791 mm)",
+        "Height": "60.4 in (1534 mm)",
+        "Front/rear Track": "60.9/61.3 in (1,547/1,557 mm)",
+        "Wheelbase": "100.7 in (2558 mm)",
+        "Cargo Volume": "12.4 cuFT (351 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2657 lbs (1205 kg)",
+        "Gross Weight Limit": "3737 lbs (1695 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "57.4 mpg US (4.1 L/100Km)",
+        "Highway": "69.2 mpg US (3.4 L/100Km)",
+        "Combined": "63.6 mpg US (3.7 L/100Km)",
+        "CO2 Emissions": "97 g/km"
+      },
+      "Power System Specs": {
+        "Nominal Capacity": "50 kWh",
+        "Range": "267 miles (429.7 km)"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Crossback",
+    "model": "DS 3 Crossback",
+    "model_slug": "ds-3-crossback-2018-2022",
+    "name": "DS AUTOMOBILES DS 3 Crossback 1.5L BlueHDi 6MT (110 HP)",
+    "slug": "ds-automobiles-ds-3-crossback-15l-bluehdi-6mt-110-hp",
+    "fuelType": "Diesel",
+    "engine": "1.5L BlueHDi 6MT",
+    "enginePower": "110",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1499 cm3",
+        "Power": "80.9 KW @ 3750 RPM110 HP @ 3750 RPM108 BHP @ 3750 RPM",
+        "Torque": "184 lb-ft @ 1750 RPM250 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "10.8 gallons (40.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "121 mph (195 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-manual speed"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/60 R17 H"
+      },
+      "Dimensions Specs": {
+        "Length": "162.1 in (4117 mm)",
+        "Width": "70.5 in (1791 mm)",
+        "Height": "60.4 in (1534 mm)",
+        "Front/rear Track": "60.9/61.3 in (1,547/1,557 mm)",
+        "Wheelbase": "100.7 in (2558 mm)",
+        "Cargo Volume": "12.4 cuFT (351 L)",
+        "Turning circle": "35.1 ft (10.7 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2657 lbs (1205 kg)",
+        "Gross Weight Limit": "3803 lbs (1725 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "53.5 mpg US (4.4 L/100Km)",
+        "Highway": "69.2 mpg US (3.4 L/100Km)",
+        "Combined": "61.9 mpg US (3.8 L/100Km)",
+        "CO2 Emissions": "99 g/km"
+      },
+      "Power System Specs": {
+        "Nominal Capacity": "50 kWh",
+        "Range": "267 miles (429.7 km)"
+      },
+      "Fuel Economy (WLTP) Specs": {
+        "Low": "49 mpg US (4.8 L/100Km)",
+        "Medium": "57.4 mpg US (4.1 L/100Km)",
+        "High": "60.3 mpg US (3.9 L/100Km)",
+        "Extra high": "45.2 mpg US (5.2 L/100Km)",
+        "Combined": "52.3 mpg US (4.5 L/100Km)",
+        "CO2 Emissions (Combined)": "119 g/km"
+      },
+      "Notice": {
+        "Notice": "AdBlue tank: 15L"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Crossback",
+    "model": "DS 3 Crossback",
+    "model_slug": "ds-3-crossback-2018-2022",
+    "name": "DS AUTOMOBILES DS 3 Crossback 1.5L BlueHDi 8AT (130 HP)",
+    "slug": "ds-automobiles-ds-3-crossback-15l-bluehdi-8at-130-hp",
+    "fuelType": "Diesel",
+    "engine": "1.5L BlueHDi 8AT",
+    "enginePower": "130",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1499 cm3",
+        "Power": "95.6 KW @ 3750 RPM130 HP @ 3750 RPM128 BHP @ 3750 RPM",
+        "Torque": "221 lb-ft @ 1750 RPM300 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "10.8 gallons (40.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "121 mph (195 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/60 R17 H"
+      },
+      "Dimensions Specs": {
+        "Length": "162.1 in (4117 mm)",
+        "Width": "70.5 in (1791 mm)",
+        "Height": "60.4 in (1534 mm)",
+        "Front/rear Track": "60.9/61.3 in (1,547/1,557 mm)",
+        "Wheelbase": "100.7 in (2558 mm)",
+        "Cargo Volume": "12.4 cuFT (351 L)",
+        "Turning circle": "35.1 ft (10.7 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2657 lbs (1205 kg)",
+        "Gross Weight Limit": "3825 lbs (1735 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "56 mpg US (4.2 L/100Km)",
+        "Highway": "65.3 mpg US (3.6 L/100Km)",
+        "Combined": "61.9 mpg US (3.8 L/100Km)",
+        "CO2 Emissions": "100 g/km"
+      },
+      "Power System Specs": {
+        "Nominal Capacity": "50 kWh",
+        "Range": "267 miles (429.7 km)"
+      },
+      "Fuel Economy (WLTP) Specs": {
+        "Low": "44.4 mpg US (5.3 L/100Km)",
+        "Medium": "52.3 mpg US (4.5 L/100Km)",
+        "High": "56 mpg US (4.2 L/100Km)",
+        "Extra high": "44.4 mpg US (5.3 L/100Km)",
+        "Combined": "49 mpg US (4.8 L/100Km)",
+        "CO2 Emissions (Combined)": "126 g/km"
+      },
+      "Notice": {
+        "Notice": "AdBlue tank: 15L"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Crossback",
+    "model": "DS 3 Crossback",
+    "model_slug": "ds-3-crossback-2018-2022",
+    "name": "DS AUTOMOBILES DS 3 Crossback E-Tense CVT 50 KWh (136 HP)",
+    "slug": "ds-automobiles-ds-3-crossback-e-tense-cvt-50-kwh-136-hp",
+    "fuelType": "Electric",
+    "engine": "E-Tense CVT 50 KWh",
+    "enginePower": "136",
+    "information": {
+      "General Specs": {
+        "Torque": "0 lb-ft @ - RPM0 Nm @  RPM",
+        "Electrical motor power": "173.6 kw (236 hp)",
+        "Electrical motor torque": "191.8 lb-ft (260 Nm)",
+        "Fuel System": "Electric",
+        "Fuel": "Electric"
+      },
+      "Performance Specs": {
+        "Top speed (electrical)": "93 mph (150 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "8.7 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Rear Wheel Drive",
+        "Gearbox": "CVT"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/60 R17 H"
+      },
+      "Dimensions Specs": {
+        "Length": "162.1 in (4117 mm)",
+        "Width": "70.5 in (1791 mm)",
+        "Height": "60.4 in (1534 mm)",
+        "Front/rear Track": "60.9/61.3 in (1,547/1,557 mm)",
+        "Wheelbase": "100.7 in (2558 mm)",
+        "Cargo Volume": "12.4 cuFT (351 L)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3362 lbs (1525 kg)",
+        "Gross Weight Limit": "4354 lbs (1975 kg)"
+      },
+      "Power System Specs": {
+        "Nominal Capacity": "50 kWh",
+        "Range": "267 miles (429.7 km)"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5",
+    "model": "DS 5",
+    "model_slug": "ds-5-2016-2022",
+    "name": "DS AUTOMOBILES DS 5 1.6L BlueHDi 6AT (120 HP)",
+    "slug": "ds-automobiles-ds-5-16l-bluehdi-6at-120-hp",
+    "fuelType": "Diesel",
+    "engine": "1.6L BlueHDi 6AT",
+    "enginePower": "120",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "88.3 KW @ 3500 RPM120 HP @ 3500 RPM118 BHP @ 3500 RPM",
+        "Torque": "221 lb-ft @ 1400 RPM300 Nm @ 1400 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "117 mph (188 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "11.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/62.3 in (1,575/1,582 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "16.5 cuFT (467 L)",
+        "Turning circle (curb to curb)": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3161 - 3450 lbs (1434 - 1565 kg)",
+        "Gross Weight Limit": "4464 lbs (2025 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "49 mpg US (4.8 L/100Km)",
+        "Highway": "63.6 mpg US (3.7 L/100Km)",
+        "Combined": "57.4 mpg US (4.1 L/100Km)",
+        "CO2 Emissions": "105 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5",
+    "model": "DS 5",
+    "model_slug": "ds-5-2016-2022",
+    "name": "DS AUTOMOBILES DS 5 1.6L BlueHDi 6MT (120 HP)",
+    "slug": "ds-automobiles-ds-5-16l-bluehdi-6mt-120-hp",
+    "fuelType": "Diesel",
+    "engine": "1.6L BlueHDi 6MT",
+    "enginePower": "120",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "88.3 KW @ 3500 RPM120 HP @ 3500 RPM118 BHP @ 3500 RPM",
+        "Torque": "221 lb-ft @ 1400 RPM300 Nm @ 1400 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "119 mph (192 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "11.7 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/62.3 in (1,575/1,582 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "16.5 cuFT (467 L)",
+        "Turning circle (curb to curb)": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3148 - 3437 lbs (1428 - 1559 kg)",
+        "Gross Weight Limit": "4453 lbs (2020 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "52.3 mpg US (4.5 L/100Km)",
+        "Highway": "69.2 mpg US (3.4 L/100Km)",
+        "Combined": "61.9 mpg US (3.8 L/100Km)",
+        "CO2 Emissions": "100 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5",
+    "model": "DS 5",
+    "model_slug": "ds-5-2016-2022",
+    "name": "DS AUTOMOBILES DS 5 2.0L BlueHDi 6MT (150 HP)",
+    "slug": "ds-automobiles-ds-5-20l-bluehdi-6mt-150-hp",
+    "fuelType": "Diesel",
+    "engine": "2.0L BlueHDi 6MT",
+    "enginePower": "150",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1997 cm3",
+        "Power": "110.3 KW @ 4000 RPM150 HP @ 4000 RPM148 BHP @ 4000 RPM",
+        "Torque": "273 lb-ft @ 2000 RPM370 Nm @ 2000 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "130 mph (209 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "10.6 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/62.3 in (1,575/1,582 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "16.5 cuFT (467 L)",
+        "Turning circle (curb to curb)": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3389 - 3660 lbs (1537 - 1660 kg)",
+        "Gross Weight Limit": "4696 lbs (2130 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "46.1 mpg US (5.1 L/100Km)",
+        "Highway": "61.9 mpg US (3.8 L/100Km)",
+        "Combined": "54.7 mpg US (4.3 L/100Km)",
+        "CO2 Emissions": "110 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5",
+    "model": "DS 5",
+    "model_slug": "ds-5-2016-2022",
+    "name": "DS AUTOMOBILES DS 5 2.0L BlueHDi 6MT (180 HP)",
+    "slug": "ds-automobiles-ds-5-20l-bluehdi-6mt-180-hp",
+    "fuelType": "Diesel",
+    "engine": "2.0L BlueHDi 6MT",
+    "enginePower": "180",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1997 cm3",
+        "Power": "132.4 KW @ 3750 RPM180 HP @ 3750 RPM178 BHP @ 3750 RPM",
+        "Torque": "295 lb-ft @ 2000 RPM400 Nm @ 2000 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "137 mph (220 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.2 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/62.3 in (1,575/1,582 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "16.5 cuFT (467 L)",
+        "Turning circle (curb to curb)": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3395 - 3702 lbs (1540 - 1679 kg)",
+        "Gross Weight Limit": "4685 lbs (2125 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "46.1 mpg US (5.1 L/100Km)",
+        "Highway": "61.9 mpg US (3.8 L/100Km)",
+        "Combined": "54.7 mpg US (4.3 L/100Km)",
+        "CO2 Emissions": "110 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5",
+    "model": "DS 5",
+    "model_slug": "ds-5-2016-2022",
+    "name": "DS AUTOMOBILES DS 5 1.6L THP 6AT (165 HP)",
+    "slug": "ds-automobiles-ds-5-16l-thp-6at-165-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6L THP 6AT",
+    "enginePower": "165",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "121.4 KW @ 6000 RPM165 HP @ 6000 RPM163 BHP @ 6000 RPM",
+        "Torque": "177 lb-ft @ 1400 RPM240 Nm @ 1400 RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "126 mph (203 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/62.3 in (1,575/1,582 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "16.5 cuFT (467 L)",
+        "Turning circle (curb to curb)": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3150 - 3534 lbs (1429 - 1603 kg)",
+        "Gross Weight Limit": "4447 lbs (2017 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "30.9 mpg US (7.6 L/100Km)",
+        "Highway": "48 mpg US (4.9 L/100Km)",
+        "Combined": "39.9 mpg US (5.9 L/100Km)",
+        "CO2 Emissions": "135 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5",
+    "model": "DS 5",
+    "model_slug": "ds-5-2016-2022",
+    "name": "DS AUTOMOBILES DS 5 1.6L THP 6MT (210 HP)",
+    "slug": "ds-automobiles-ds-5-16l-thp-6mt-210-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6L THP 6MT",
+    "enginePower": "210",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "154.5 KW @ 6000 RPM210 HP @ 6000 RPM207 BHP @ 6000 RPM",
+        "Torque": "210 lb-ft @ 1750 RPM285 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "146 mph (235 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "8.8 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed automatic ETG"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/62.3 in (1,575/1,582 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "16.5 cuFT (467 L)",
+        "Turning circle (curb to curb)": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3153 - 3439 lbs (1430 - 1560 kg)",
+        "Gross Weight Limit": "4431 lbs (2010 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "29.4 mpg US (8 L/100Km)",
+        "Highway": "45.2 mpg US (5.2 L/100Km)",
+        "Combined": "37.9 mpg US (6.2 L/100Km)",
+        "CO2 Emissions": "144 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5",
+    "model": "DS 5",
+    "model_slug": "ds-5-2016-2022",
+    "name": "DS AUTOMOBILES DS 5 2.0L 6AT AWD (200 HP)",
+    "slug": "ds-automobiles-ds-5-20l-6at-awd-200-hp",
+    "fuelType": "Hybrid Diesel",
+    "engine": "2.0L 6AT AWD",
+    "enginePower": "200",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1997 cm3",
+        "Power": "119.9 KW @ 3850 RPM163 HP @ 3850 RPM161 BHP @ 3850 RPM",
+        "Torque": "221 lb-ft @ 1750 RPM300 Nm @ 1750 RPM",
+        "Electrical motor power": "27.2 kw (37 hp)",
+        "Electrical motor torque": "147.5 lb-ft (200 Nm)",
+        "Total maximum power": "147.1 kw (200 hp)",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Hybrid Diesel",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "131 mph (211 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "8.6 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "All Wheel Drive",
+        "Gearbox": "6-speed automatic ETG"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Ventilated Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/62.3 in (1,575/1,582 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "11.5 cuFT (326 L)",
+        "Turning circle (curb to curb)": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3660 - 3926 lbs (1660 - 1781 kg)",
+        "Gross Weight Limit": "4993 lbs (2265 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "46.1 mpg US (5.1 L/100Km)",
+        "Highway": "61.9 mpg US (3.8 L/100Km)",
+        "Combined": "54.7 mpg US (4.3 L/100Km)",
+        "CO2 Emissions": "110 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 4",
+    "model": "DS 4",
+    "model_slug": "ds-4-2021-2022",
+    "name": "DS AUTOMOBILES DS 4 1.2L PureTech 8AT (130 HP)",
+    "slug": "ds-automobiles-ds-4-12l-puretech-8at-130-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 8AT",
+    "enginePower": "130",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "95.6 KW @ 5500 RPM130 HP @ 5500 RPM128 BHP @ 5500 RPM",
+        "Torque": "170 lb-ft @ 1750 RPM230 Nm @ 1750 RPM",
+        "Fuel System": "Multi-point indirect injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.7 gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "130 mph (209 km/h)"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated discs",
+        "Rear": "Ventilated discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17 99V"
+      },
+      "Dimensions Specs": {
+        "Length": "173.2 in (4399 mm)",
+        "Width": "73.5 in (1867 mm)",
+        "Height": "58.7 in (1491 mm)",
+        "Front/rear Track": "63/63.2 in (1,600/1,605 mm)",
+        "Wheelbase": "105.3 in (2675 mm)",
+        "Ground Clearance": "7.4 in (188 mm)",
+        "Cargo Volume": "15.2 cuFT (430 L)",
+        "Turning circle": "35.5 ft (10.8 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2981 - 2983 lbs (1352 - 1353 kg)",
+        "Gross Weight Limit": "4277 lbs (1940 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "39.2 mpg US (6 L/100Km)",
+        "Highway": "52.3 mpg US (4.5 L/100Km)",
+        "Combined": "46.1 mpg US (5.1 L/100Km)",
+        "CO2 Emissions": "116 g/km"
+      },
+      "Fuel Economy (WLTP) Specs": {
+        "Low": "30.5 mpg US (7.7 L/100Km)",
+        "Medium": "40.6 mpg US (5.8 L/100Km)",
+        "High": "46.1 mpg US (5.1 L/100Km)",
+        "Extra high": "38.6 mpg US (6.1 L/100Km)",
+        "Combined": "39.9 mpg US (5.9 L/100Km)",
+        "CO2 Emissions (Combined)": "135 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 4",
+    "model": "DS 4",
+    "model_slug": "ds-4-2021-2022",
+    "name": "DS AUTOMOBILES DS 4 1.6L PureTech 8AT (181 HP)",
+    "slug": "ds-automobiles-ds-4-16l-puretech-8at-181-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6L PureTech 8AT",
+    "enginePower": "181",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "133.1 KW @ 5500 RPM181 HP @ 5500 RPM178 BHP @ 5500 RPM",
+        "Torque": "184 lb-ft @ 1650 RPM250 Nm @ 1650 RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.7 gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "143 mph (230 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "8 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated discs",
+        "Rear": "Ventilated discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17 99V"
+      },
+      "Dimensions Specs": {
+        "Length": "173.2 in (4399 mm)",
+        "Width": "73.5 in (1867 mm)",
+        "Height": "58.7 in (1491 mm)",
+        "Front/rear Track": "63/63.2 in (1,600/1,605 mm)",
+        "Wheelbase": "105.3 in (2675 mm)",
+        "Ground Clearance": "7.4 in (188 mm)",
+        "Cargo Volume": "15.2 cuFT (430 L)",
+        "Turning circle": "334.1 ft (101.8 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3131 lbs (1420 kg)",
+        "Gross Weight Limit": "4365 lbs (1980 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "35.6 mpg US (6.6 L/100Km)",
+        "Highway": "50 mpg US (4.7 L/100Km)",
+        "Combined": "43.6 mpg US (5.4 L/100Km)",
+        "CO2 Emissions": "123 g/km"
+      },
+      "Fuel Economy (WLTP) Specs": {
+        "Low": "28.3 mpg US (8.3 L/100Km)",
+        "Medium": "36.2 mpg US (6.5 L/100Km)",
+        "High": "42 mpg US (5.6 L/100Km)",
+        "Extra high": "36.2 mpg US (6.5 L/100Km)",
+        "Combined": "36.2 mpg US (6.5 L/100Km)",
+        "CO2 Emissions (Combined)": "146 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 4",
+    "model": "DS 4",
+    "model_slug": "ds-4-2021-2022",
+    "name": "DS AUTOMOBILES DS 4 1.6L PureTech 8AT (225 HP)",
+    "slug": "ds-automobiles-ds-4-16l-puretech-8at-225-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6L PureTech 8AT",
+    "enginePower": "225",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "165.5 KW @ 5500 RPM225 HP @ 5500 RPM222 BHP @ 5500 RPM",
+        "Torque": "221 lb-ft @ 1900 RPM300 Nm @ 1900 RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.7 gallons (51.9 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "146 mph (235 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "7.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated discs",
+        "Rear": "Ventilated discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17 99V"
+      },
+      "Dimensions Specs": {
+        "Length": "173.2 in (4399 mm)",
+        "Width": "73.5 in (1867 mm)",
+        "Height": "58.7 in (1491 mm)",
+        "Front/rear Track": "63/63.2 in (1,600/1,605 mm)",
+        "Wheelbase": "105.3 in (2675 mm)",
+        "Ground Clearance": "7.4 in (188 mm)",
+        "Cargo Volume": "15.2 cuFT (430 L)",
+        "Turning circle": "334.1 ft (101.8 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3131 lbs (1420 kg)",
+        "Gross Weight Limit": "4387 lbs (1990 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "35.6 mpg US (6.6 L/100Km)",
+        "Highway": "50 mpg US (4.7 L/100Km)",
+        "Combined": "43.6 mpg US (5.4 L/100Km)",
+        "CO2 Emissions": "123 g/km"
+      },
+      "Fuel Economy (WLTP) Specs": {
+        "Low": "28.3 mpg US (8.3 L/100Km)",
+        "Medium": "36.2 mpg US (6.5 L/100Km)",
+        "High": "41.3 mpg US (5.7 L/100Km)",
+        "Extra high": "34.6 mpg US (6.8 L/100Km)",
+        "Combined": "35.6 mpg US (6.6 L/100Km)",
+        "CO2 Emissions (Combined)": "149 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 4",
+    "model": "DS 4",
+    "model_slug": "ds-4-2021-2022",
+    "name": "DS AUTOMOBILES DS 4 1.5L BlueHDi 8AT (130 HP)",
+    "slug": "ds-automobiles-ds-4-15l-bluehdi-8at-130-hp",
+    "fuelType": "Diesel",
+    "engine": "1.5L BlueHDi 8AT",
+    "enginePower": "130",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1499 cm3",
+        "Power": "95.6 KW @ 3750 RPM130 HP @ 3750 RPM128 BHP @ 3750 RPM",
+        "Torque": "221 lb-ft @ 1750 RPM300 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "14 gallons (53.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "126 mph (203 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated discs",
+        "Rear": "Ventilated discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17 99V"
+      },
+      "Dimensions Specs": {
+        "Length": "173.2 in (4399 mm)",
+        "Width": "73.5 in (1867 mm)",
+        "Height": "58.7 in (1491 mm)",
+        "Front/rear Track": "63/63.2 in (1,600/1,605 mm)",
+        "Wheelbase": "105.3 in (2675 mm)",
+        "Ground Clearance": "7.4 in (188 mm)",
+        "Cargo Volume": "15.2 cuFT (430 L)",
+        "Turning circle": "334.1 ft (101.8 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3117 lbs (1414 kg)",
+        "Gross Weight Limit": "4409 lbs (2000 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "56 mpg US (4.2 L/100Km)",
+        "Highway": "67.2 mpg US (3.5 L/100Km)",
+        "Combined": "61.9 mpg US (3.8 L/100Km)",
+        "CO2 Emissions": "100 g/km"
+      },
+      "Fuel Economy (WLTP) Specs": {
+        "Low": "42.8 mpg US (5.5 L/100Km)",
+        "Medium": "51.1 mpg US (4.6 L/100Km)",
+        "High": "57.4 mpg US (4.1 L/100Km)",
+        "Extra high": "46.1 mpg US (5.1 L/100Km)",
+        "Combined": "49 mpg US (4.8 L/100Km)",
+        "CO2 Emissions (Combined)": "125 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 4",
+    "model": "DS 4",
+    "model_slug": "ds-4-2021-2022",
+    "name": "DS AUTOMOBILES DS 4 1.6L PureTech E-Tense PHEV 8AT (225 HP)",
+    "slug": "ds-automobiles-ds-4-16l-puretech-e-tense-phev-8at-225-hp",
+    "fuelType": "Hybrid Gasoline",
+    "engine": "1.6L PureTech E-Tense PHEV 8AT",
+    "enginePower": "225",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "132.4 KW @ 6000 RPM180 HP @ 6000 RPM178 BHP @ 6000 RPM",
+        "Torque": "184 lb-ft @ 1750 RPM250 Nm @ 1750 RPM",
+        "Electrical motor power": "80.9 kw (110 hp)",
+        "Electrical motor torque": "236 lb-ft (320 Nm)",
+        "Total maximum power": "165.5 kw (225 hp)",
+        "Total maximum torque": "265.5 lb-ft (360 Nm)",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Hybrid Gasoline",
+        "Fuel capacity": "10.6 gallons (40.1 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "145 mph (233 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "7.7 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated discs",
+        "Rear": "Ventilated discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/65 R17 99V"
+      },
+      "Dimensions Specs": {
+        "Length": "173.2 in (4399 mm)",
+        "Width": "73.5 in (1867 mm)",
+        "Height": "58.7 in (1491 mm)",
+        "Front/rear Track": "63/63.2 in (1,600/1,605 mm)",
+        "Wheelbase": "105.3 in (2675 mm)",
+        "Ground Clearance": "7.4 in (188 mm)",
+        "Cargo Volume": "13.8 cuFT (391 L)",
+        "Turning circle": "334.1 ft (101.8 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3605 lbs (1635 kg)",
+        "Gross Weight Limit": "4850 lbs (2200 kg)"
+      },
+      "Power System Specs": {
+        "Power pack": "Lithium-Ion",
+        "Nominal Capacity": "12.4 kWh",
+        "Range": "34.2 miles (55.0 km)"
+      },
+      "Fuel Economy (WLTP) Specs": {
+        "Low": "31.8 mpg US (7.4 L/100Km)",
+        "Medium": "38.6 mpg US (6.1 L/100Km)",
+        "High": "42 mpg US (5.6 L/100Km)",
+        "Extra high": "34.1 mpg US (6.9 L/100Km)",
+        "Combined": "180.9 mpg US (1.3 L/100Km)",
+        "CO2 Emissions (Combined)": "29 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 9",
+    "model": "DS 9",
+    "model_slug": "ds-9-2020-2022",
+    "name": "DS AUTOMOBILES DS 9 E-TENSE PureTech 8AT (225 HP)",
+    "slug": "ds-automobiles-ds-9-e-tense-puretech-8at-225-hp",
+    "fuelType": "Hybrid",
+    "engine": "E-TENSE PureTech 8AT",
+    "enginePower": "225",
+    "information": {
+      "General Specs": {
+        "Electrical motor power": "80.9 kw (110 hp)",
+        "Total maximum power": "165.5 kw (225 hp)",
+        "Total maximum torque": "236 lb-ft (320 Nm)",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Dimensions Specs": {
+        "Length": "194.1 in (4930 mm)",
+        "Width": "72.8 in (1849 mm)",
+        "Wheelbase": "114.2 in (2901 mm)"
+      },
+      "Power System Specs": {
+        "Nominal Capacity": "11.9 kWh",
+        "Range": "24.9 miles (40.1 km)"
+      },
+      "Notice": {
+        "Notice": "All Electric Speed: 135 Km/h (84 mph)"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 9",
+    "model": "DS 9",
+    "model_slug": "ds-9-2020-2022",
+    "name": "DS AUTOMOBILES DS 9 E-TENSE PureTech 8AT (250 HP)",
+    "slug": "ds-automobiles-ds-9-e-tense-puretech-8at-250-hp",
+    "fuelType": "Hybrid",
+    "engine": "E-TENSE PureTech 8AT",
+    "enginePower": "250",
+    "information": {
+      "General Specs": {
+        "Power": "183.9 KW @ - RPM250 HP @ - RPM247 BHP @ - RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Dimensions Specs": {
+        "Length": "194.1 in (4930 mm)",
+        "Width": "72.8 in (1849 mm)",
+        "Wheelbase": "114.2 in (2901 mm)"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 9",
+    "model": "DS 9",
+    "model_slug": "ds-9-2020-2022",
+    "name": "DS AUTOMOBILES DS 9 E-TENSE PureTech 8AT AWD (360 HP)",
+    "slug": "ds-automobiles-ds-9-e-tense-puretech-8at-awd-360-hp",
+    "fuelType": "Hybrid",
+    "engine": "E-TENSE PureTech 8AT AWD",
+    "enginePower": "360",
+    "information": {
+      "General Specs": {
+        "Power": "225.1 KW @ - RPM306 HP @ - RPM302 BHP @ - RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Hybrid"
+      },
+      "Transmission Specs": {
+        "Drive Type": "All Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Dimensions Specs": {
+        "Length": "194.1 in (4930 mm)",
+        "Width": "72.8 in (1849 mm)",
+        "Wheelbase": "114.2 in (2901 mm)"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 9",
+    "model": "DS 9",
+    "model_slug": "ds-9-2020-2022",
+    "name": "DS AUTOMOBILES DS 9 PureTech 8AT (225 HP)",
+    "slug": "ds-automobiles-ds-9-puretech-8at-225-hp",
+    "fuelType": "Gasoline",
+    "engine": "PureTech 8AT",
+    "enginePower": "225",
+    "information": {
+      "General Specs": {
+        "Power": "165.5 KW @ - RPM225 HP @ - RPM222 BHP @ - RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "8-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Dimensions Specs": {
+        "Length": "194.1 in (4930 mm)",
+        "Width": "72.8 in (1849 mm)",
+        "Wheelbase": "114.2 in (2901 mm)"
+      },
+      "Notice": {
+        "Notice": "All Electric Speed: 135 Km/h (84 mph)"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2016-2018",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.2L PureTech 5MT Start&Stop (110 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-12l-puretech-5mt-startstop-110-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 5MT Start&Stop",
+    "enginePower": "110",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "80.9 KW @ 5500 RPM110 HP @ 5500 RPM108 BHP @ 5500 RPM",
+        "Torque": "151 lb-ft @ 1500 RPM205 Nm @ 1500 RPM",
+        "Fuel System": "Turbocharged Multipoint Injection",
+        "Fuel": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed": "118 mph (190 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.8 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.9 in (1,466/1,471 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "8.7 cuFT (246 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2403 lbs (1090 kg)",
+        "Gross Weight Limit": "3523 lbs (1598 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "44.4 mpg US (5.3 L/100Km)",
+        "Highway": "61.9 mpg US (3.8 L/100Km)",
+        "Combined": "54.7 mpg US (4.3 L/100Km)",
+        "CO2 Emissions": "100 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2016-2018",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.2L PureTech 5MT Start&Stop (82 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-12l-puretech-5mt-startstop-82-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 5MT Start&Stop",
+    "enginePower": "82",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "60.3 KW @ 5750 RPM82 HP @ 5750 RPM81 BHP @ 5750 RPM",
+        "Torque": "87 lb-ft @ 2750 RPM118 Nm @ 2750 RPM",
+        "Fuel System": "Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "107 mph (172 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.9 in (1,466/1,471 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "8.7 cuFT (246 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2275 lbs (1032 kg)",
+        "Gross Weight Limit": "3377 lbs (1532 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "40.6 mpg US (5.8 L/100Km)",
+        "Highway": "54.7 mpg US (4.3 L/100Km)",
+        "Combined": "48 mpg US (4.9 L/100Km)",
+        "CO2 Emissions": "112 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2016-2018",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.2L PureTech 6AT Start&Stop (110 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-12l-puretech-6at-startstop-110-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 6AT Start&Stop",
+    "enginePower": "110",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "80.9 KW @ 5500 RPM110 HP @ 5500 RPM108 BHP @ 5500 RPM",
+        "Torque": "151 lb-ft @ 1500 RPM205 Nm @ 1500 RPM",
+        "Fuel System": "Turbocharged Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "117 mph (188 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "10.2 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.9 in (1,466/1,471 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "8.7 cuFT (246 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2535 lbs (1150 kg)",
+        "Gross Weight Limit": "3605 lbs (1635 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "39.2 mpg US (6 L/100Km)",
+        "Highway": "56 mpg US (4.2 L/100Km)",
+        "Combined": "48 mpg US (4.9 L/100Km)",
+        "CO2 Emissions": "112 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2016-2018",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.2L PureTech 6MT Start&Stop  (130 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-12l-puretech-6mt-startstop-130-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2L PureTech 6MT Start&Stop",
+    "enginePower": "130",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "95.6 KW @ 5500 RPM130 HP @ 5500 RPM128 BHP @ 5500 RPM",
+        "Torque": "170 lb-ft @ 1750 RPM230 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "126 mph (203 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.9 in (1,466/1,471 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "8.7 cuFT (246 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2469 lbs (1120 kg)",
+        "Gross Weight Limit": "3571 lbs (1620 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "43.6 mpg US (5.4 L/100Km)",
+        "Highway": "57.4 mpg US (4.1 L/100Km)",
+        "Combined": "52.3 mpg US (4.5 L/100Km)",
+        "CO2 Emissions": "105 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2016-2018",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.6L THP 6MT Start&Stop (165 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-16l-thp-6mt-startstop-165-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6L THP 6MT Start&Stop",
+    "enginePower": "165",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "121.3 KW @ 6000 RPM165 HP @ 6000 RPM163 BHP @ 6000 RPM",
+        "Torque": "177 lb-ft @ 4000 RPM240 Nm @ 4000 RPM",
+        "Fuel System": "Turbocharged Multipoint Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "135 mph (217 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "205/45 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.9 in (1,466/1,471 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "8.7 cuFT (246 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2568 lbs (1165 kg)",
+        "Gross Weight Limit": "3594 lbs (1630 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "29 mpg US (8.1 L/100Km)",
+        "Highway": "51.1 mpg US (4.6 L/100Km)",
+        "Combined": "42 mpg US (5.6 L/100Km)",
+        "CO2 Emissions": "129 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2016-2018",
+    "name": "DS AUTOMOBILES DS 3 Cabrio Performance 1.6L THP 6MT Start&Stop (206 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-performance-16l-thp-6mt-startstop-206-hp",
+    "fuelType": "Gasoline",
+    "engine": "Performance 1.6L THP 6MT Start&Stop",
+    "enginePower": "206",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "151.5 KW @ 6000 RPM206 HP @ 6000 RPM203 BHP @ 6000 RPM",
+        "Torque": "221 lb-ft @ 1700 RPM300 Nm @ 1700 RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "143 mph (230 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "205/45 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.9 in (1,466/1,471 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "8.7 cuFT (246 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2405 lbs (1091 kg)",
+        "Gross Weight Limit": "3591 lbs (1629 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "34.1 mpg US (6.9 L/100Km)",
+        "Highway": "51.1 mpg US (4.6 L/100Km)",
+        "Combined": "43.6 mpg US (5.4 L/100Km)",
+        "CO2 Emissions": "125 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2016-2018",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.6L BlueHDi 5MT Start&Stop (100 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-16l-bluehdi-5mt-startstop-100-hp",
+    "fuelType": "Diesel",
+    "engine": "1.6L BlueHDi 5MT Start&Stop",
+    "enginePower": "100",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1560 cm3",
+        "Power": "73.5 KW @ 3750 RPM100 HP @ 3750 RPM99 BHP @ 3750 RPM",
+        "Torque": "187 lb-ft @ 1750 RPM254 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "113 mph (182 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "12.1 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.9 in (1,466/1,471 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "8.7 cuFT (246 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2531 lbs (1148 kg)",
+        "Gross Weight Limit": "3642 lbs (1652 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "58.8 mpg US (4 L/100Km)",
+        "Highway": "71.3 mpg US (3.3 L/100Km)",
+        "Combined": "67.2 mpg US (3.5 L/100Km)",
+        "CO2 Emissions": "92 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2016-2018",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.6L BlueHDi 6MT Start&Stop (120 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-16l-bluehdi-6mt-startstop-120-hp",
+    "fuelType": "Diesel",
+    "engine": "1.6L BlueHDi 6MT Start&Stop",
+    "enginePower": "120",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1560 cm3",
+        "Power": "88.3 KW @ 3500 RPM120 HP @ 3500 RPM118 BHP @ 3500 RPM",
+        "Torque": "210 lb-ft @ 1750 RPM285 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "13.2 gallons (50.0 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "118 mph (190 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.4 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "205/45 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "155.7 in (3955 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.7/57.9 in (1,466/1,471 mm)",
+        "Wheelbase": "97 in (2464 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "8.7 cuFT (246 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2646 lbs (1200 kg)",
+        "Gross Weight Limit": "3671 lbs (1665 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "53.5 mpg US (4.4 L/100Km)",
+        "Highway": "73.5 mpg US (3.2 L/100Km)",
+        "Combined": "65.3 mpg US (3.6 L/100Km)",
+        "CO2 Emissions": "94 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2013-2016",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.2 VTi 5MT (82 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-12-vti-5mt-82-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.2 VTi 5MT",
+    "enginePower": "82",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L3",
+        "Displacement": "1199 cm3",
+        "Power": "60 KW @ 5750 RPM82 HP @ 5750 RPM80 BHP @ 5750 RPM",
+        "Torque": "87 lb-ft @ 2750 RPM118 Nm @ 2750 RPM",
+        "Fuel System": "Multipoint Injection",
+        "Fuel": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed": "108 mph (174 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "14.4 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Drums"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2460 lbs (1116 kg)",
+        "Gross Weight Limit": "3377 lbs (1532 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "40.6 mpg US (5.8 L/100Km)",
+        "Highway": "54.7 mpg US (4.3 L/100Km)",
+        "Combined": "48 mpg US (4.9 L/100Km)",
+        "CO2 Emissions": "112 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2013-2016",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.6 THP 6MT (155 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-16-thp-6mt-155-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6 THP 6MT",
+    "enginePower": "155",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "114 KW @ 6000 RPM155 HP @ 6000 RPM153 BHP @ 6000 RPM",
+        "Torque": "177 lb-ft @ 1400 RPM240 Nm @ 1400 RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed": "132 mph (212 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "205/45 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2756 lbs (1250 kg)",
+        "Gross Weight Limit": "3569 lbs (1619 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "29.4 mpg US (8 L/100Km)",
+        "Highway": "49 mpg US (4.8 L/100Km)",
+        "Combined": "39.9 mpg US (5.9 L/100Km)",
+        "CO2 Emissions": "137 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2013-2016",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.6 VTi 4AT (120 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-16-vti-4at-120-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6 VTi 4AT",
+    "enginePower": "120",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "88 KW @ 6000 RPM120 HP @ 6000 RPM118 BHP @ 6000 RPM",
+        "Torque": "118 lb-ft @ 4250 RPM160 Nm @ 4250 RPM",
+        "Fuel System": "Multipoint Injection",
+        "Fuel": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed": "118 mph (190 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "4-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2690 lbs (1220 kg)",
+        "Gross Weight Limit": "4211 lbs (1910 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "24.2 mpg US (9.7 L/100Km)",
+        "Highway": "48 mpg US (4.9 L/100Km)",
+        "Combined": "35.1 mpg US (6.7 L/100Km)",
+        "CO2 Emissions": "154 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2013-2016",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.6 VTi 5MT (120 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-16-vti-5mt-120-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6 VTi 5MT",
+    "enginePower": "120",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "88 KW @ 6000 RPM120 HP @ 6000 RPM118 BHP @ 6000 RPM",
+        "Torque": "118 lb-ft @ 4250 RPM160 Nm @ 4250 RPM",
+        "Fuel System": "Multipoint Injection",
+        "Fuel": "Gasoline"
+      },
+      "Performance Specs": {
+        "Top Speed": "118 mph (190 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2679 lbs (1215 kg)",
+        "Gross Weight Limit": "3472 lbs (1575 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "29.8 mpg US (7.9 L/100Km)",
+        "Highway": "49 mpg US (4.8 L/100Km)",
+        "Combined": "39.9 mpg US (5.9 L/100Km)",
+        "CO2 Emissions": "136 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2013-2016",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.6 eHDi 5AT (92 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-16-ehdi-5at-92-hp",
+    "fuelType": "Diesel",
+    "engine": "1.6 eHDi 5AT",
+    "enginePower": "92",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1560 cm3",
+        "Power": "67.6 KW @ 4000 RPM92 HP @ 4000 RPM91 BHP @ 4000 RPM",
+        "Torque": "170 lb-ft @ 1750 RPM230 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed": "111 mph (179 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "10.4 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2370 lbs (1075 kg)",
+        "Gross Weight Limit": "3613 lbs (1639 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "54.7 mpg US (4.3 L/100Km)",
+        "Highway": "67.2 mpg US (3.5 L/100Km)",
+        "Combined": "61.9 mpg US (3.8 L/100Km)",
+        "CO2 Emissions": "99 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "model": "DS 3 Cabrio",
+    "model_slug": "ds-3-cabrio-2013-2016",
+    "name": "DS AUTOMOBILES DS 3 Cabrio 1.6 eHDi 5MT (92 HP)",
+    "slug": "ds-automobiles-ds-3-cabrio-16-ehdi-5mt-92-hp",
+    "fuelType": "Diesel",
+    "engine": "1.6 eHDi 5MT",
+    "enginePower": "92",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1560 cm3",
+        "Power": "67.6 KW @ 4000 RPM92 HP @ 4000 RPM91 BHP @ 4000 RPM",
+        "Torque": "170 lb-ft @ 1750 RPM230 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel"
+      },
+      "Performance Specs": {
+        "Top Speed": "113 mph (182 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "11.3 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "5-speed manual"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Solid Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "195/55 R16"
+      },
+      "Dimensions Specs": {
+        "Length": "155.4 in (3947 mm)",
+        "Width": "67.5 in (1715 mm)",
+        "Height": "57.4 in (1458 mm)",
+        "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
+        "Wheelbase": "96.5 in (2451 mm)",
+        "Ground Clearance": "5.1 in (130 mm)",
+        "Cargo Volume": "10 cuFT (283 L)",
+        "Aerodynamics (Cd)": "0.31"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "2370 lbs (1075 kg)",
+        "Gross Weight Limit": "3613 lbs (1639 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "54.7 mpg US (4.3 L/100Km)",
+        "Highway": "71.3 mpg US (3.3 L/100Km)",
+        "Combined": "60.3 mpg US (3.9 L/100Km)",
+        "CO2 Emissions": "95 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5LS",
+    "model": "DS 5LS",
+    "model_slug": "ds-5ls-2014-2018",
+    "name": "DS AUTOMOBILES DS 5LS 1.6L BlueHDi 6AT (120 HP)",
+    "slug": "ds-automobiles-ds-5ls-16l-bluehdi-6at-120-hp",
+    "fuelType": "Diesel",
+    "engine": "1.6L BlueHDi 6AT",
+    "enginePower": "120",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1560 cm3",
+        "Power": "88.3 KW @ 3500 RPM120 HP @ 3500 RPM118 BHP @ 3500 RPM",
+        "Torque": "221 lb-ft @ 1750 RPM300 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "117 mph (188 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "11.9 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/63 in (1,575/1,600 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "16.5 cuFT (467 L)",
+        "Turning circle": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3161 - 3450 lbs (1434 - 1565 kg)",
+        "Gross Weight Limit": "4464 lbs (2025 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "49 mpg US (4.8 L/100Km)",
+        "Highway": "63.6 mpg US (3.7 L/100Km)",
+        "Combined": "57.4 mpg US (4.1 L/100Km)",
+        "CO2 Emissions": "105 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5LS",
+    "model": "DS 5LS",
+    "model_slug": "ds-5ls-2014-2018",
+    "name": "DS AUTOMOBILES DS 5LS 1.6L BlueHDi 6MT (120 HP)",
+    "slug": "ds-automobiles-ds-5ls-16l-bluehdi-6mt-120-hp",
+    "fuelType": "Diesel",
+    "engine": "1.6L BlueHDi 6MT",
+    "enginePower": "120",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1560 cm3",
+        "Power": "88.3 KW @ 3500 RPM120 HP @ 3500 RPM118 BHP @ 3500 RPM",
+        "Torque": "221 lb-ft @ 1750 RPM300 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "119 mph (192 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "11.7 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-manual speed"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/63 in (1,575/1,600 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "16.5 cuFT (467 L)",
+        "Turning circle": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3148 - 3437 lbs (1428 - 1559 kg)",
+        "Gross Weight Limit": "4453 lbs (2020 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "52.3 mpg US (4.5 L/100Km)",
+        "Highway": "69.2 mpg US (3.4 L/100Km)",
+        "Combined": "61.9 mpg US (3.8 L/100Km)",
+        "CO2 Emissions": "100 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5LS",
+    "model": "DS 5LS",
+    "model_slug": "ds-5ls-2014-2018",
+    "name": "DS AUTOMOBILES DS 5LS 2.0L BlueHDi 6AT (180 HP)",
+    "slug": "ds-automobiles-ds-5ls-20l-bluehdi-6at-180-hp",
+    "fuelType": "Diesel",
+    "engine": "2.0L BlueHDi 6AT",
+    "enginePower": "180",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1997 cm3",
+        "Power": "132.4 KW @ 3750 RPM180 HP @ 3750 RPM178 BHP @ 3750 RPM",
+        "Torque": "295 lb-ft @ 2000 RPM400 Nm @ 2000 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "137 mph (220 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.2 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/63 in (1,575/1,600 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "16.5 cuFT (467 L)",
+        "Turning circle": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3395 - 3702 lbs (1540 - 1679 kg)",
+        "Gross Weight Limit": "4685 lbs (2125 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "46.1 mpg US (5.1 L/100Km)",
+        "Highway": "61.9 mpg US (3.8 L/100Km)",
+        "Combined": "54.7 mpg US (4.3 L/100Km)",
+        "CO2 Emissions": "110 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5LS",
+    "model": "DS 5LS",
+    "model_slug": "ds-5ls-2014-2018",
+    "name": "DS AUTOMOBILES DS 5LS 2.0L BlueHDi 6MT (150 HP)",
+    "slug": "ds-automobiles-ds-5ls-20l-bluehdi-6mt-150-hp",
+    "fuelType": "Diesel",
+    "engine": "2.0L BlueHDi 6MT",
+    "enginePower": "150",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1997 cm3",
+        "Power": "110.3 KW @ 4000 RPM150 HP @ 4000 RPM148 BHP @ 4000 RPM",
+        "Torque": "273 lb-ft @ 2000 RPM370 Nm @ 2000 RPM",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Diesel",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "130 mph (209 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "10.6 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-manual speed"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/63 in (1,575/1,600 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "16.5 cuFT (467 L)",
+        "Turning circle": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3389 - 3660 lbs (1537 - 1660 kg)",
+        "Gross Weight Limit": "4696 lbs (2130 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "46.1 mpg US (5.1 L/100Km)",
+        "Highway": "61.9 mpg US (3.8 L/100Km)",
+        "Combined": "54.7 mpg US (4.3 L/100Km)",
+        "CO2 Emissions": "110 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5LS",
+    "model": "DS 5LS",
+    "model_slug": "ds-5ls-2014-2018",
+    "name": "DS AUTOMOBILES DS 5LS 1.6L THP 6AT (165 HP)",
+    "slug": "ds-automobiles-ds-5ls-16l-thp-6at-165-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6L THP 6AT",
+    "enginePower": "165",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "121.4 KW @ 6000 RPM165 HP @ 6000 RPM163 BHP @ 6000 RPM",
+        "Torque": "177 lb-ft @ 1400 RPM240 Nm @ 1400 RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "126 mph (203 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/63 in (1,575/1,600 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "16.5 cuFT (467 L)",
+        "Turning circle": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3150 - 3534 lbs (1429 - 1603 kg)",
+        "Gross Weight Limit": "4447 lbs (2017 kg)"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5LS",
+    "model": "DS 5LS",
+    "model_slug": "ds-5ls-2014-2018",
+    "name": "DS AUTOMOBILES DS 5LS 1.6L THP 6MT (210 HP)",
+    "slug": "ds-automobiles-ds-5ls-16l-thp-6mt-210-hp",
+    "fuelType": "Gasoline",
+    "engine": "1.6L THP 6MT",
+    "enginePower": "210",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1598 cm3",
+        "Power": "154.5 KW @ 6000 RPM210 HP @ 6000 RPM207 BHP @ 6000 RPM",
+        "Torque": "210 lb-ft @ 1750 RPM285 Nm @ 1750 RPM",
+        "Fuel System": "Turbocharged Direct Injection",
+        "Fuel": "Gasoline",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "146 mph (235 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "8.8 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "Front Wheel Drive",
+        "Gearbox": "6-manual speed"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/63 in (1,575/1,600 mm)",
+        "Wheelbase": "107.4 in (2728 mm)",
+        "Cargo Volume": "16.5 cuFT (467 L)",
+        "Turning circle": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3153 - 3439 lbs (1430 - 1560 kg)",
+        "Gross Weight Limit": "4431 lbs (2010 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "29.4 mpg US (8 L/100Km)",
+        "Highway": "45.2 mpg US (5.2 L/100Km)",
+        "Combined": "37.9 mpg US (6.2 L/100Km)",
+        "CO2 Emissions": "144 g/km"
+      }
+    }
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 5LS",
+    "model": "DS 5LS",
+    "model_slug": "ds-5ls-2014-2018",
+    "name": "DS AUTOMOBILES DS 5LS 2.0L ETG 6AT AWD (200 HP)",
+    "slug": "ds-automobiles-ds-5ls-20l-etg-6at-awd-200-hp",
+    "fuelType": "Hybrid Diesel",
+    "engine": "2.0L ETG 6AT AWD",
+    "enginePower": "200",
+    "information": {
+      "General Specs": {
+        "Cylinders": "L4",
+        "Displacement": "1997 cm3",
+        "Power": "119.9 KW @ 3850 RPM163 HP @ 3850 RPM161 BHP @ 3850 RPM",
+        "Torque": "221 lb-ft @ 1750 RPM300 Nm @ 1750 RPM",
+        "Electrical motor power": "27.2 kw (37 hp)",
+        "Electrical motor torque": "147.5 lb-ft (200 Nm)",
+        "Total maximum power": "147.1 kw (200 hp)",
+        "Fuel System": "Turbocharged Common Rail",
+        "Fuel": "Hybrid Diesel",
+        "Fuel capacity": "15.9 gallons (60.2 L)"
+      },
+      "Performance Specs": {
+        "Top Speed": "131 mph (211 km/h)",
+        "Acceleration 0-62 Mph (0-100 kph)": "8.6 s"
+      },
+      "Transmission Specs": {
+        "Drive Type": "All Wheel Drive",
+        "Gearbox": "6-speed automatic"
+      },
+      "Brakes Specs": {
+        "Front": "Ventilated Discs",
+        "Rear": "Discs"
+      },
+      "Tires Specs": {
+        "Tire Size": "215/55 R17"
+      },
+      "Dimensions Specs": {
+        "Length": "178.3 in (4529 mm)",
+        "Width": "73.7 in (1872 mm)",
+        "Height": "59.3 in (1506 mm)",
+        "Front/rear Track": "62/63 in (1,575/1,600 mm)",
+        "Wheelbase": "106.7 in (2710 mm)",
+        "Cargo Volume": "11.5 cuFT (326 L)",
+        "Turning circle": "36.7 ft (11.2 m)"
+      },
+      "Weight Specs": {
+        "Unladen Weight": "3660 - 3926 lbs (1660 - 1781 kg)",
+        "Gross Weight Limit": "4993 lbs (2265 kg)"
+      },
+      "Fuel Economy (NEDC) Specs": {
+        "City": "78.4 mpg US (3 L/100Km)",
+        "Highway": "63.6 mpg US (3.7 L/100Km)",
+        "Combined": "67.2 mpg US (3.5 L/100Km)",
+        "CO2 Emissions": "90 g/km"
+      }
+    }
+  }
+]

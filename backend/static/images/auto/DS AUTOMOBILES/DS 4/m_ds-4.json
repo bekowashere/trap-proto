@@ -1,0 +1,32 @@
+[
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 4",
+    "name": "DS 4",
+    "slug": "",
+    "startYear": "2021",
+    "endYear": "Present",
+    "fuelType": [
+      {
+        "type": "Gasoline"
+      },
+      {
+        "type": "Diesel"
+      },
+      {
+        "type": "Hybrid Gasoline"
+      }
+    ],
+    "segment": "Compact",
+    "description": "In February 2021, DS Automobiles introduced the second generation of its compact crossover contender, the DS 4.Back in the '50s and '60s, Citroen was considered a premium brand, and the phenomenal DS model was iconic for the French brand. Over time, Citroen's aura started to fade, and it became just a shadow of the glorious brand it used to be. But that was changed in 2015 when the company's management decided to restore its golden age and introduced the DS Automobile as a premium brand for Citroen. The new brand evolved from Citroen as a premium carmaker in the same way that Infiniti grew from Nissan, Lexus from Toyota, or Acura from Honda.\n\nThe DS4 was a creative mix between a compact and a crossover vehicle. By 2021, its three LED headlamps were already a lighting signature for the French carmaker. Its broad grille extended from the hood to the bottom of the apron, filling the space between the headlights, was a bold statement for the French carmaker. The sloped C-pillars enhanced the car's sporty look in a way that only the glorious Citroen SM dared to be.\n\nInside, the French designers imagined a cabin with an exclusive look and high-quality materials. They mixed the refinement and the technology in a way that few carmakers could ever do. The leather-wrapped dashboard featured a center-mounted infotainment touch-screen and another TFT display in the instrument cluster.\n\nBased on the EMP2 platform, the DS4 shared its underpinning with other Citroen and Peugeot products. It featured a wide range of diesel, gasoline, and plug-in hybrid powertrains.",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/DS-AUTOMOBILES_DS-4-2021_main.jpg",
+    "detail_url": "https://www.autoevolution.com/cars/ds-automobiles-ds-4-2021.html",
+    "images_url": [
+      "https://s1.cdn.autoevolution.com/images/gallery/ds-automobiles-ds-4-2021-7008_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ds-automobiles-ds-4-2021-7008_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ds-automobiles-ds-4-2021-7008_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ds-automobiles-ds-4-2021-7008_5.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/ds-automobiles-ds-4-2021-7008_6.jpg"
+    ]
+  }
+]

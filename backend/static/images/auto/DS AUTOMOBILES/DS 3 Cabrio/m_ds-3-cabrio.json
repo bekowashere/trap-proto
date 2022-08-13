@@ -1,0 +1,56 @@
+[
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "name": "DS 3 Cabrio",
+    "slug": "",
+    "startYear": "2016",
+    "endYear": "2018",
+    "fuelType": [
+      {
+        "type": "Gasoline"
+      },
+      {
+        "type": "Diesel"
+      }
+    ],
+    "segment": "Small",
+    "description": "Citroen unveiled the facelifted version of the DS 3 in 2016, along with the release of the DS premium brand.The French carmaker introduced the DS 3 in 2009 as an exclusive range in the Citroen stable but, by 2016, it decided that along with the facelifted version, to release it as a separate brand known as DS. Honda, Toyota, and Nissan did the same with Acura, Lexus, and Infiniti, respectively. So while the 2016 DS 3 still relied on the same technical platform as the Citroen C3 and the Peugeot 208, it featured a different styling, available exclusively as a 3-door hatchback or a convertible.\n\nOn the 2016 model, the DS3 Cabriolet featured a new front fascia with a unique-shaped grille surrounded by a chromed trim. Its front bumper sported the LED daytime running lights incorporated vertically into side scoops. But the carmaker chose the light way of creating an open-top vehicle and installed a retractable roof and rear windscreen only. Its doors and rear side windows remained in place.\n\nInside, the interior offered a premium feeling with high-quality materials adorned by aluminum and piano-black trims. Its front high-bolstered bucket seats at the front provided good side support for their occupants during high-speed cornering, while at the back, there was room for two passengers on the 60/40 split-folding rear seatback.\n\nUnder the hood, DS installed Euro 6 engines, both gasoline, and turbo-diesel. Power ranged between 82 hp for the naturally aspirated 1.2-liter gasoline unit and 208 hp for the 1.6-liter turbocharged gasoline four-pot. Two turbo-diesel versions were available as well.",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/CITROEN_DS3-Cabrio-2016_main.jpg",
+    "detail_url": "https://www.autoevolution.com/cars/citroen-ds3-cabrio-2016.html",
+    "images_url": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS3-Cabrio-5575_1.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS3-Cabrio-5575_2.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS3-Cabrio-5575_3.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS3-Cabrio-5575_4.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS3-Cabrio-5575_5.jpg"
+    ]
+  },
+  {
+    "brand": "DS AUTOMOBILES",
+    "series": "DS 3 Cabrio",
+    "name": "DS 3 Cabrio",
+    "slug": "",
+    "startYear": "2013",
+    "endYear": "2016",
+    "fuelType": [
+      {
+        "type": "Gasoline"
+      },
+      {
+        "type": "Diesel"
+      }
+    ],
+    "segment": "Small",
+    "description": "Citroen officially unveiled the first convertible DS model in 2012 at the Paris Motor Show.Called the DS3 Cabrio, this has the same basic shape as the coupe, thanks to a long fabric tarp that rolls back from the windshield all the way to the back, similar to the design of the Fiat 500C. Depending on the trim level, the DS3 Cabrio can be a pretty luxurious car, with plenty of leather trim and body color choices. If you want a sporty yet elegant French convertible that's great around town, look no further than this car. Just don't expect to get a lot into the tiny boot space.",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/CITROEN_DS3-Cabrio-2013_main.jpg",
+    "detail_url": "https://www.autoevolution.com/cars/citroen-ds3-cabrio-2013.html",
+    "images_url": [
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS3-Cabrio-4928_7.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS3-Cabrio-4928_10.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS3-Cabrio-4928_13.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS3-Cabrio-4928_15.jpg",
+      "https://s1.cdn.autoevolution.com/images/gallery/CITROEN-DS3-Cabrio-4928_17.jpg"
+    ]
+  }
+]

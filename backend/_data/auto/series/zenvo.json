@@ -1,0 +1,29 @@
+[
+  {
+    "brand": "Zenvo",
+    "name": "Zenvo TS1",
+    "slug": "",
+    "bodyStyle": "coupes",
+    "isDiscontinued": false,
+    "detail_url": "https://www.autoevolution.com/zenvo/ts1/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/ZENVO_TS1-2017_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "Zenvo",
+    "name": "Zenvo TSR-S",
+    "slug": "",
+    "bodyStyle": "",
+    "isDiscontinued": false,
+    "detail_url": "https://www.autoevolution.com/zenvo/tsr-s/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/Zenvo_TSR-S-2018_main.jpg_tmb.jpg"
+  },
+  {
+    "brand": "Zenvo",
+    "name": "Zenvo ST1",
+    "slug": "",
+    "bodyStyle": "coupes",
+    "isDiscontinued": true,
+    "detail_url": "https://www.autoevolution.com/zenvo/st1/",
+    "image_url": "https://s1.cdn.autoevolution.com/images/models/thumb/ZENVO_ST1-2009_main.jpg_tmb.jpg"
+  }
+]
